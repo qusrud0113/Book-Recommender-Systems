@@ -1,0 +1,2783 @@
+,State,R_State,Country
+0,New Brunswick, Canada,Canada
+1,New Brunswick, Canada,Ireland
+2,New Brunswick, Canada,
+3,New Brunswick, Canada,Usa
+4,North Carolina, United States,Usa
+5,North Carolina, United States,
+6,North Carolina, United States,Canada
+7,North Carolina, United States,United States
+8,North Carolina, United States,Germany
+9,North Carolina, United States,Taiwan
+10,Minnesota, United States,Usa
+11,Minnesota, United States,United Kingdom
+12,Minnesota, United States,
+13,Minnesota, United States,Canada
+14,Sachsen-Anhalt, Germany,Germany
+15,New York, United States,Usa
+16,New York, United States,
+17,New York, United States,Richmond Country
+18,New York, United States,Onondaga Nation
+19,New York, United States,Australia
+20,New York, United States,Germany
+21,New York, United States,France
+22,New York, United States,New York
+23,New York, United States,Belgium
+24,New York, United States,Portugal
+25,Oregon, United States,Usa
+26,Oregon, United States,Petrolwar Nation
+27,Oregon, United States,Canada
+28,Oregon, United States,
+29,Oregon, United States,United Kingdom
+30,Sevilla, Spain,Spain
+31,Sevilla, Spain,Papua New Guinea
+32,Sevilla, Spain,Australia
+33,Ohio, United States,Usa
+34,Ohio, United States,
+35,Ohio, United States,United Kingdom
+36,Ohio, United States,Germany
+37,Ohio, United States,Austria
+38,Ohio, United States,Ohio
+39,Ohio, United States,South Korea
+40,Ohio, United States,New Zealand
+41,Ohio, United States,Australia
+42,Ohio, United States,Canada
+43,Illinois, United States,Usa
+44,Illinois, United States,
+45,Illinois, United States,Canada
+46,Illinois, United States,France
+47,Illinois, United States,Australia
+48,Illinois, United States,United Kingdom
+49,Illinois, United States,United States
+50,South Australia, Australia,Australia
+51,South Australia, Australia,
+52,N/A, Portugal,Spain
+53,N/A, Portugal,United Kingdom
+54,N/A, Portugal,Sweden
+55,N/A, Portugal,France
+56,N/A, Portugal,Singapore
+57,N/A, Portugal,
+58,N/A, Portugal,Switzerland
+59,N/A, Portugal,Philippines
+60,N/A, Portugal,Germany
+61,N/A, Portugal,Denmark
+62,N/A, Portugal,Belize
+63,N/A, Portugal,Poland
+64,N/A, Portugal,Belgium
+65,N/A, Portugal,Haiti
+66,N/A, Portugal,Portugal
+67,N/A, Portugal,Netherlands
+68,N/A, Portugal,Bulgaria
+69,N/A, Portugal,Luxembourg
+70,N/A, Portugal,New Zealand
+71,N/A, Portugal,South Africa
+72,N/A, Portugal,Czech Republic
+73,N/A, Portugal,Israel
+74,N/A, Portugal,Malta
+75,N/A, Portugal,South Korea
+76,N/A, Portugal,Hungary
+77,N/A, Portugal,Croatia
+78,N/A, Portugal,Taiwan
+79,N/A, Portugal,Iceland
+80,N/A, Portugal,Turkey
+81,N/A, Portugal,Usa
+82,N/A, Portugal,Lithuania
+83,N/A, Portugal,Finland
+84,N/A, Portugal,Ireland
+85,N/A, Portugal,Australia
+86,N/A, Portugal,Egypt
+87,N/A, Portugal,Malaysia
+88,N/A, Portugal,Romania
+89,N/A, Portugal,Argentina
+90,N/A, Portugal,Kazakhstan
+91,N/A, Portugal,Italy
+92,N/A, Portugal,Sri Lanka
+93,N/A, Portugal,Slovenia
+94,N/A, Portugal,Iran
+95,N/A, Portugal,Slovakia
+96,N/A, Portugal,Greece
+97,N/A, Portugal,Austria
+98,N/A, Portugal,Bolivia
+99,N/A, Portugal,India
+100,N/A, Portugal,Canada
+101,N/A, Portugal,Grenada
+102,N/A, Portugal,Tunisia
+103,N/A, Portugal,United Arab Emirates
+104,N/A, Portugal,Norway
+105,N/A, Portugal,N/A
+106,N/A, Portugal,China
+107,N/A, Portugal,Russia
+108,N/A, Portugal,Andorra
+109,N/A, Portugal,Indonesia
+110,N/A, Portugal,U.A.E
+111,N/A, Portugal,Monaco
+112,N/A, Portugal,Hong Kong
+113,N/A, Portugal,Jamaica
+114,N/A, Portugal,Jersey
+115,N/A, Portugal,Mongolia
+116,N/A, Portugal,Ghana
+117,N/A, Portugal,Cyprus
+118,N/A, Portugal,Estonia
+119,N/A, Portugal,Nepal
+120,N/A, Portugal,Laos
+121,N/A, Portugal,Saint Lucia
+122,N/A, Portugal,Kenya
+123,N/A, Portugal,Trinidad And Tobago
+124,N/A, Portugal,Yugoslavia
+125,N/A, Portugal,Colombia
+126,N/A, Portugal,Brazil
+127,N/A, Portugal,Aruba
+128,N/A, Portugal,Saudi Arabia
+129,N/A, Portugal,Mexico
+130,N/A, Portugal,Dominican Republic
+131,N/A, Portugal,Uruguay
+132,N/A, Portugal,Pakistan
+133,N/A, Portugal,Costa Rica
+134,N/A, Portugal,Georgia
+135,N/A, Portugal,Latvia
+136,N/A, Portugal,Bangladesh
+137,N/A, Portugal,Fiji
+138,N/A, Portugal,Thailand
+139,N/A, Portugal,Zimbabwe
+140,N/A, Portugal,Japan
+141,N/A, Portugal,Chile
+142,N/A, Portugal,Macau
+143,N/A, Portugal,Barbados
+144,N/A, Portugal,Benin
+145,N/A, Portugal,Rwanda
+146,N/A, Portugal,Qatar
+147,N/A, Portugal,Cuba
+148,N/A, Portugal,Brunei
+149,N/A, Portugal,Solomon Islands
+150,N/A, Portugal,Iraq
+151,N/A, Portugal,Lebanon
+152,N/A, Portugal,Kuwait
+153,N/A, Portugal,Nigeria
+154,N/A, Portugal,Scotland
+155,N/A, Portugal,Albania
+156,N/A, Portugal,Bermuda
+157,N/A, Portugal,Oman
+158,N/A, Portugal,Everywhere And Anywhere
+159,N/A, Portugal,Uganda
+160,N/A, Portugal,Guatemala
+161,N/A, Portugal,Ecuador
+162,N/A, Portugal,La France
+163,Hessen, Germany,Germany
+164,Hessen, Germany,
+165,Hessen, Germany,Guinea-Bissau
+166,Manitoba, Canada,Canada
+167,Manitoba, Canada,
+168,Manitoba, Canada,Singapore
+169,Oxfordshire, United Kingdom,United Kingdom
+170,Michigan, United States,Usa
+171,Michigan, United States,Italy
+172,Michigan, United States,
+173,Michigan, United States,Japan
+174,Michigan, United States,United Kingdom
+175,Michigan, United States,Michigan
+176,Baden-Wuerttemberg, Germany,Germany
+177,Baden-Wuerttemberg, Germany,Argentina
+178,Baden-Wuerttemberg, Germany,Spain
+179,Baden-Wuerttemberg, Germany,
+180,California, United States,Usa
+181,California, United States,Tanzania
+182,California, United States,
+183,California, United States,New Zealand
+184,California, United States,United Kingdom
+185,California, United States,U.S.A.
+186,California, United States,Austria
+187,California, United States,Ventura County
+188,California, United States,Kern
+189,California, United States,United States
+190,California, United States,San Mateo
+191,California, United States,Zimbabwe
+192,California, United States,Canada
+193,California, United States,Antigua And Barbuda
+194,California, United States,Oman
+195,California, United States,France
+196,California, United States,El Salvador
+197,California, United States,California
+198,California, United States,Australia
+199,California, United States,Italy
+200,California, United States,Afghanistan
+201,Washington, United States,Usa
+202,Washington, United States,
+203,Washington, United States,United Kingdom
+204,Washington, United States,Alderney
+205,Washington, United States,Canada
+206,Washington, United States,United State
+207,Washington, United States,Uzbekistan
+208,Washington, United States,Australia
+209,Bayern, Germany,Germany
+210,Bayern, Germany,Ghana
+211,Bayern, Germany,
+212,Bayern, Germany,Benin
+213,Bayern, Germany,United Kingdom
+214,Bayern, Germany,France
+215,Bayern, Germany,Belgium
+216,Bayern, Germany,Switzerland
+217,Idaho, United States,Usa
+218,Idaho, United States,
+219,Idaho, United States,United Kingdom
+220,Idaho, United States,Switzerland
+221,Idaho, United States,Idaho
+222,South Carolina, United States,Usa
+223,South Carolina, United States,United Kingdom
+224,South Carolina, United States,Australia
+225,South Carolina, United States,Netherlands
+226,South Carolina, United States,
+227,Pennsylvania, United States,Usa
+228,Pennsylvania, United States,
+229,Pennsylvania, United States,Malaysia
+230,Pennsylvania, United States,Spain
+231,Pennsylvania, United States,Philippines
+232,Pennsylvania, United States,Portugal
+233,Pennsylvania, United States,Uzbekistan
+234,Maryland, United States,Usa
+235,Maryland, United States,
+236,Maryland, United States,Maryland
+237,Maryland, United States,Spain
+238,Maryland, United States,Los Estados Unidos De Norte America
+239,Maryland, United States,Morocco
+240,Maryland, United States,Ireland
+241,Queensland, Australia,Australia
+242,Queensland, Australia,Canada
+243,Queensland, Australia,France
+244,Queensland, Australia,
+245,British Columbia, Canada,Canada
+246,British Columbia, Canada,
+247,British Columbia, Canada,United Kingdom
+248,British Columbia, Canada,Australia
+249,British Columbia, Canada,Cayman Islands
+250,Kansas, United States,Usa
+251,Kansas, United States,
+252,Kansas, United States,Canada
+253,,no_info,
+254,,no_info,Italy
+255,,no_info,Canada
+256,,no_info,Usa
+257,,no_info,Spain
+258,,no_info,Austria
+259,,no_info,France
+260,,no_info,Germany
+261,,no_info,New Zealand
+262,,no_info,Netherlands
+263,,no_info,British Columbia
+264,,no_info,Missouri
+265,,no_info,United Kingdom
+266,,no_info,Florida
+267,,no_info,Victoria
+268,,no_info,North Carolina
+269,,no_info,New Mexico
+270,,no_info,Jersey
+271,,no_info,Ontario
+272,,no_info,Mexico
+273,,no_info,California
+274,,no_info,Australia
+275,,no_info,Washington
+276,,no_info,Maine
+277,,no_info,South Dakota
+278,,no_info,Ohio
+279,,no_info,Hawaii
+280,,no_info,Michigan
+281,,no_info,Massachusetts
+282,,no_info,Oregon
+283,,no_info,Connecticut
+284,,no_info,Virginia
+285,,no_info,Texas
+286,,no_info,Denmark
+287,,no_info,Malaysia
+288,,no_info,England
+289,,no_info,Alberta
+290,,no_info,Estonia
+291,,no_info,D.C.
+292,,no_info,Peru
+293,,no_info,Sweden
+294,,no_info,Illinois
+295,,no_info,Dc
+296,,no_info,Puerto Rico
+297,,no_info,Belgium
+298,,no_info,Wisconsin
+299,,no_info,Switzerland
+300,,no_info,North Dakota
+301,,no_info,New York
+302,,no_info,Luxembourg
+303,,no_info,Russia
+304,,no_info,Quebec
+305,,no_info,Metro Manila
+306,,no_info,Croatia
+307,,no_info,Rhode Island
+308,,no_info,Saskatchewan
+309,,no_info,Greece
+310,,no_info,Arizona
+311,,no_info,Philippines
+312,,no_info,Maryland
+313,,no_info,N/A - On The Road
+314,,no_info,Singapore
+315,,no_info,The Great White North
+316,,no_info,N/A
+317,,no_info,Ireland
+318,,no_info,Universe
+319,,no_info,Montana
+320,,no_info,Belize
+321,,no_info,Italia
+322,,no_info,Egypt
+323,,no_info,New Jersey
+324,,no_info,Bc
+325,,no_info,La France
+326,,no_info,Nebraska
+327,,no_info,Oklahoma
+328,,no_info,Kansas
+329,,no_info,Colorado
+330,,no_info,Alaska
+331,,no_info,Norway
+332,,no_info,Portugal
+333,,no_info,Indiana
+334,Niedersachsen, Germany,Germany
+335,Niedersachsen, Germany,Lk Ammerland
+336,Niedersachsen, Germany,
+337,Niedersachsen, Germany,Deutschland
+338,Oklahoma, United States,Usa
+339,Oklahoma, United States,
+340,Florida, United States,Usa
+341,Florida, United States,
+342,Florida, United States,United Kingdom
+343,Florida, United States,France
+344,Florida, United States,Australia
+345,Florida, United States,Spain
+346,Florida, United States,Canada
+347,Florida, United States,Alachua
+348,Florida, United States,U.S>
+349,Florida, United States,America
+350,Florida, United States,United States
+351,Tennessee, United States,Usa
+352,Tennessee, United States,
+353,Tennessee, United States,Turkey
+354,Tennessee, United States,Canada
+355,Louisiana, United States,Usa
+356,Louisiana, United States,
+357,Louisiana, United States,St. Helena
+358,Georgia,Georgia,Usa
+359,Georgia,Georgia,
+360,Georgia,Georgia,United Kingdom
+361,Georgia,Georgia,Luxembourg
+362,Georgia,Georgia,Afghanistan
+363,Georgia,Georgia,France
+364,Georgia,Georgia,Romania
+365,Georgia,Georgia,Austria
+366,Georgia,Georgia,Spain
+367,Georgia,Georgia,Bahrain
+368,Marche/Toscana, Italy,Italy
+369,Texas, United States,Usa
+370,Texas, United States,Sweden
+371,Texas, United States,Usa (Currently Living In England)
+372,Texas, United States,
+373,Texas, United States,South Korea
+374,Texas, United States,Canada
+375,Texas, United States,Texas
+376,Alberta, Canada,Canada
+377,Alberta, Canada,
+378,Alberta, Canada,Brazil
+379,Alberta, Canada,Spain
+380,Alberta, Canada,Switzerland
+381,Alberta, Canada,United Kingdom
+382,Alberta, Canada,France
+383,Utrecht, Netherlands,Netherlands
+384,Utrecht, Netherlands,
+385,Ontario, Canada,Canada
+386,Ontario, Canada,
+387,Ontario, Canada,Ontario
+388,Ontario, Canada,Usa
+389,Ontario, Canada,Australia
+390,Ontario, Canada,K1C7B1
+391,Lisboa, Portugal,Portugal
+392,Lisboa, Portugal,
+393,England, United Kingdom,United Kingdom
+394,England, United Kingdom,England
+395,England, United Kingdom,
+396,England, United Kingdom,Usa
+397,England, United Kingdom,Lithuania
+398,England, United Kingdom,Italy
+399,England, United Kingdom,N/A
+400,England, United Kingdom,U.K.
+401,Massachusetts, United States,Usa
+402,Massachusetts, United States,Framingham
+403,Massachusetts, United States,
+404,Massachusetts, United States,Netherlands
+405,Colorado, United States,Usa
+406,Colorado, United States,
+407,Colorado, United States,Spain
+408,Colorado, United States,United Kingdom
+409,Colorado, United States,Vietnam
+410,Colorado, United States,Canada
+411,Virginia, United States,Usa
+412,Virginia, United States,
+413,Virginia, United States,Australia
+414,Virginia, United States,United States
+415,Virginia, United States,Austria
+416,Emilia Romagna, Italy,Italy
+417,Emilia Romagna, Italy,France
+418,Emilia Romagna, Italy,Austria
+419,Emilia Romagna, Italy,Ferrara
+420,Emilia Romagna, Italy,Antarctica
+421,Emilia Romagna, Italy,Spain
+422,New Mexico, United States,Usa
+423,New Mexico, United States,
+424,New Mexico, United States,Canada
+425,New Mexico, United States,United Kingdom
+426,New Hampshire, United States,Usa
+427,New Hampshire, United States,
+428,Barcelona, Spain,Spain
+429,Barcelona, Spain,España
+430,Barcelona, Spain,Catalunya
+431,Barcelona, Spain,Catalonia
+432,Barcelona, Spain,
+433,Barcelona, Spain,Catalunya Spain
+434,Alaska, United States,Usa
+435,Alaska, United States,
+436,Alaska, United States,Germany
+437,Alaska, United States,Brazil
+438,Alaska, United States,Netherlands
+439,Alaska, United States,United Kingdom
+440,Alaska, United States,France
+441,Alaska, United States,Mexico
+442,Alaska, United States,Italy
+443,Alaska, United States,Spain
+444,Alabama, United States,Usa
+445,Alabama, United States,Spain
+446,Alabama, United States,United Kingdom
+447,Alabama, United States,France
+448,Alabama, United States,Austria
+449,Alabama, United States,Germany
+450,Alabama, United States,Canada
+451,Alabama, United States,Zambia
+452,Alabama, United States,Netherlands
+453,Alabama, United States,Portugal
+454,Alabama, United States,
+455,Alabama, United States,Australia
+456,Alabama, United States,Hungary
+457,Alabama, United States,New Zealand
+458,Alabama, United States,China
+459,Alabama, United States,Algeria
+460,Alabama, United States,Bahamas
+461,New Jersey, United States,Usa
+462,New Jersey, United States,
+463,New Jersey, United States,Australia
+464,New Jersey, United States,United States
+465,New Jersey, United States,Canada
+466,New Jersey, United States,Niger
+467,New Jersey, United States,Burlington
+468,New South Wales, Australia,Australia
+469,New South Wales, Australia,
+470,New South Wales, Australia,Israel
+471,New South Wales, Australia,Usa
+472,Wien, Austria,Austria
+473,Wien, Austria,Eu
+474,Wien, Austria,
+475,Nordrhein-Westfalen, Germany,Germany
+476,Nordrhein-Westfalen, Germany,Usa
+477,Nordrhein-Westfalen, Germany,Ghana
+478,Nordrhein-Westfalen, Germany,
+479,Nordrhein-Westfalen, Germany,Grenada
+480,Nordrhein-Westfalen, Germany,Greece
+481,Nordrhein-Westfalen, Germany,Iceland
+482,Nordrhein-Westfalen, Germany,Deutschland
+483,Rheinland-Pfalz, Germany,Germany
+484,Rheinland-Pfalz, Germany,Usa
+485,Rheinland-Pfalz, Germany,Greece
+486,Rheinland-Pfalz, Germany,Alderney
+487,Rheinland-Pfalz, Germany,France
+488,Rheinland-Pfalz, Germany,New Zealand
+489,Indiana, United States,Usa
+490,Indiana, United States,
+491,Indiana, United States,Morgan
+492,Indiana, United States,Canada
+493,Indiana, United States,United Kingdom
+494,Indiana, United States,Spain
+495,Indiana, United States,Argentina
+496,Maine, United States,Usa
+497,Maine, United States,Canada
+498,Maine, United States,Spain
+499,Maine, United States,United Kingdom
+500,Maine, United States,Aroostook
+501,Maine, United States,Madrid
+502,Paca, France,France
+503,Paca, France,
+504,Victoria, Australia,Australia
+505,Victoria, Australia,Spain
+506,Victoria, Australia,
+507,Victoria, Australia,Italy
+508,Arizona, United States,Usa
+509,Arizona, United States,United Sates
+510,Arizona, United States,Maricopa
+511,Arizona, United States,Canada
+512,Arizona, United States,Lleida
+513,Arizona, United States,
+514,Arizona, United States,China
+515,Arizona, United States,Germany
+516,Arizona, United States,Spain
+517,Arizona, United States,Costa Rica
+518,Arizona, United States,India
+519,Arizona, United States,Ysa
+520,Arizona, United States,Arizona
+521,Yukon Territory, Canada,France
+522,Yukon Territory, Canada,Canada
+523,Yukon Territory, Canada,Usa
+524,Yukon Territory, Canada,Chile
+525,Yukon Territory, Canada,Spain
+526,Yukon Territory, Canada,Netherlands
+527,Yukon Territory, Canada,Turkey
+528,Yukon Territory, Canada,Costa Rica
+529,Wisconsin, United States,Usa
+530,Wisconsin, United States,
+531,Wisconsin, United States,Spain
+532,Varsinais-Suomi, Finland,Finland
+533,Nova Scotia, Canada,Canada
+534,Nova Scotia, Canada,Nova Scotia
+535,Nova Scotia, Canada,
+536,Nova Scotia, Canada,Belgium
+537,Utah, United States,Usa
+538,Utah, United States,
+539,Quebec, Canada,Canada
+540,Quebec, Canada,
+541,Quebec, Canada,Cape Verde
+542,Quebec, Canada,Israel
+543,Quebec, Canada,France
+544,Catalunya, Spain,Spain
+545,Catalunya, Spain,Andorra
+546,Catalunya, Spain,
+547,Catalunya, Spain,Catalunya
+548,Catalunya, Spain,Fiji
+549,Auckland, New Zealand,New Zealand
+550,Auckland, New Zealand,
+551,Auckland, New Zealand,N/A
+552,Rhode Island, United States,Usa
+553,Rhode Island, United States,
+554,Rhode Island, United States,Canada
+555,Singapore,Singapore,Singapore
+556,Singapore,Singapore,
+557,Singapore,Singapore,Thailand
+558,Madrid, Spain,Spain
+559,Madrid, Spain,España
+560,Madrid, Spain,
+561,Missouri, United States,Usa
+562,Missouri, United States,
+563,Missouri, United States,Saint Loius
+564,Missouri, United States,Argentina
+565,Newfoundland, Canada,Canada
+566,Newfoundland, Canada,
+567,Newfoundland, Canada,Usa
+568,Ile De France, France,France
+569,Ile De France, France,Paris
+570,Ile De France, France,
+571,Noord-Holland, Netherlands,Netherlands
+572,Noord-Holland, Netherlands,
+573,Toscana, Italy,Italy
+574,Toscana, Italy,Canada
+575,Toscana, Italy,
+576,Toscana, Italy,Italia
+577,Toscana, Italy,Usa
+578,Sachsen, Germany,Germany
+579,Sachsen, Germany,New Zealand
+580,Sachsen, Germany,
+581,Sachsen, Germany,Austria
+582,Sachsen, Germany,United Kingdom
+583,London, United Kingdom,United Kingdom
+584,London, United Kingdom,England
+585,London, United Kingdom,
+586,South Dakota, United States,Usa
+587,South Dakota, United States,Spain
+588,Canton De Berne, Switzerland,Switzerland
+589,Na,Namibia,New Zealand
+590,Na,Namibia,La Chine Éternelle!
+591,Na,Namibia,La Chine Éternelle !
+592,Na,Namibia,Ireland
+593,Na,Namibia,
+594,Na,Namibia,Norway
+595,Na,Namibia,Turkey
+596,Na,Namibia,United Kingdom
+597,Na,Namibia,Brazil
+598,Na,Namibia,Aruba
+599,Na,Namibia,Usa
+600,Na,Namibia,Indonesia
+601,Na,Namibia,Portugal
+602,Canterbury, United Kingdom,New Zealand
+603,Canterbury, United Kingdom,South Island
+604,Canterbury, United Kingdom,
+605,Canterbury, United Kingdom,Nz
+606,Lille, France,France
+607,Stockholm, Sweden,Sweden
+608,Stockholm, Sweden,
+609,Schweiz,Switzerland,Switzerland
+610,Ny, United States,New York
+611,Ny, United States,Usa
+612,Ny, United States,United Staes
+613,Arkansas, United States,Usa
+614,Arkansas, United States,Arkansas
+615,Arkansas, United States,Antigua And Barbuda
+616,Arkansas, United States,
+617,Arkansas, United States,Canada
+618,Arkansas, United States,Poland
+619,Arkansas, United States,Australia
+620,Arkansas, United States,Afghanistan
+621,Arkansas, United States,United Kingdom
+622,Montana, United States,Usa
+623,Montana, United States,Malaysia
+624,Negeri Sembilan, Malaysia,Malaysia
+625,Negeri Sembilan, Malaysia,
+626,Zürich, Switzerland,Switzerland
+627,Zürich, Switzerland,Stadt
+628,Zürich, Switzerland,Tajikistan
+629,Basilicata, Italy,Spain
+630,Basilicata, Italy,Italy
+631,Basilicata, Italy,Argentina
+632,Basilicata, Italy,Canada
+633,Asia,Asia,Singapore
+634,Asia,Asia,Turkmenistan
+635,Asia,Asia,Hong Kong
+636,Perak, Malaysia,Malaysia
+637,Lombardia, Italy,Italy
+638,Lombardia, Italy,
+639,Lombardia, Italy,Usa
+640,Lombardia, Italy,Italia
+641,Nrw (Nordrhein Westfalen), Germany,Germany
+642,Cataluña, Spain,Spain
+643,Cataluña, Spain,
+644,Lisbon, Portugal,Portugal
+645,Vermont, United States,Usa
+646,Vermont, United States,
+647,Geneve, Switzerland,Switzerland
+648,Federal Territory, Malaysia,Malaysia
+649,Schleswig-Holstein, Germany,Germany
+650,Schleswig-Holstein, Germany,Deutschland
+651,Schleswig-Holstein, Germany,Spain
+652,Schleswig-Holstein, Germany,Netherlands
+653,West-Vlaanderen, Belgium,Belgium
+654,Nevada, United States,Usa
+655,Nevada, United States,
+656,Nevada, United States,Nevada
+657,Veneto, Italy,Italy
+658,Veneto, Italy,Usa
+659,Veneto, Italy,Slovakia
+660,Veneto, Italy,Alderney
+661,Veneto, Italy,Spain
+662,Pontevedra, Spain,Spain
+663,Pontevedra, Spain,
+664,Connecticut, United States,Usa
+665,Connecticut, United States,Singapore
+666,Connecticut, United States,Spain
+667,Connecticut, United States,United Kingdom
+668,Connecticut, United States,
+669,Connecticut, United States,Portugal
+670,Connecticut, United States,Costa Rica
+671,Saskatchewan, Canada,Canada
+672,Saskatchewan, Canada,
+673,Saskatchewan, Canada,Caribbean Sea
+674,Bern, Switzerland,Switzerland
+675,Gloucestershire, United Kingdom,United Kingdom
+676,Gloucestershire, United Kingdom,England
+677,Gloucestershire, United Kingdom,
+678,North Dakota, United States,Usa
+679,North Dakota, United States,Canada
+680,Emmental, Colombia,Switzerland
+681,Ostschweiz, Switzerland,Switzerland
+682,Fukui, Japan,Japan
+683,Thueringen, Germany,Germany
+684,Berlin, Germany,Germany
+685,Berlin, Germany,
+686,Jalisco, Mexico,
+687,Jalisco, Mexico,Mexico
+688,Jalisco, Mexico,Zapopan
+689,Paris, France,France
+690,Se,Sweden,Sweden
+691,Kentucky, United States,Usa
+692,Kentucky, United States,Canada
+693,Kentucky, United States,
+694,Mecklenburg-Vorpommern, Germany,Germany
+695,Mecklenburg-Vorpommern, Germany,Spain
+696,Selangor, Malaysia,Malaysia
+697,Tasmania, Australia,Australia
+698,Tasmania, Australia,Usa
+699,Tasmania, Australia,Spain
+700,Tasmania, Australia,Japan
+701,Bretagne, France,France
+702,Bretagne, France,Gabon
+703,West Virginia, United States,Usa
+704,West Virginia, United States,
+705,West Virginia, United States,Russia
+706,Baden-Württemberg, Germany,Germany
+707,Baden-Württemberg, Germany,
+708,Baden-Württemberg, Germany,Greece
+709,Baden-Württemberg, Germany,Deutschland
+710,Zaragoza, Spain,Spain
+711,Kl, India,Malaysia
+712,Hainaut, Belgium,Belgium
+713,Castilla, Peru,Spain
+714,Co. Wicklow, Ireland,Ireland
+715,Alicante, Spain,Spain
+716,Penang, Malaysia,
+717,Penang, Malaysia,Malaysia
+718,Andalucia, Spain,Spain
+719,Andalucia, Spain,España
+720,Massachussetts, France,Usa
+721,Lazio, Italy,Italy
+722,Lazio, Italy,
+723,Lazio, Italy,United Kingdom
+724,Lazio, Italy,Portugal
+725,Lazio, Italy,Israel
+726,Lazio, Italy,Usa
+727,Lazio, Italy,Germany
+728,Lazio, Italy,Italia
+729,Lazio, Italy,Albania
+730,Lazio, Italy,Andorra
+731,Lazio, Italy,Singapore
+732,N.Ireland, Ireland,United Kingdom
+733,(Porto), Portugal,Portugal
+734,Puglia, Italy,Italy
+735,Friuli Venezia Giulia, Italy,Italy
+736,Friuli Venezia Giulia, Italy,Usa
+737,Friuli Venezia Giulia, Italy,United Kingdom
+738,Friuli Venezia Giulia, Italy,Spain
+739,Friuli Venezia Giulia, Italy,Albania
+740,Friuli Venezia Giulia, Italy,New Zealand
+741,Friuli Venezia Giulia, Italy,Uruguay
+742,Friuli Venezia Giulia, Italy,France
+743,Mississippi, United States,Usa
+744,Mississippi, United States,Canada
+745,Mississippi, United States,Germany
+746,Mississippi, United States,
+747,Mississippi, United States,Syria
+748,Castilla-León, Spain,Spain
+749,Central, Mongolia,Trinidad And Tobago
+750,Central, Mongolia,Hong Kong
+751,Central, Mongolia,Paraguay
+752,Valencia, Spain,Spain
+753,Valencia, Spain,N/A
+754,Iowa, United States,Usa
+755,Iowa, United States,
+756,Prince Edward Island, Canada,Canada
+757,Prince Edward Island, Canada,
+758,Seixal, Portugal,Portugal
+759,Hawaii, United States,Usa
+760,Hawaii, United States,United Kingdom
+761,Hawaii, United States,Portugal
+762,Hawaii, United States,Us
+763,Hawaii, United States,Japan
+764,Hawaii, United States,Benin
+765,Nebraska, United States,Usa
+766,Nebraska, United States,
+767,Nebraska, United States,United Kingdom
+768,Nebraska, United States,Netherlands
+769,Nebraska, United States,Switzerland
+770,Nebraska, United States,New Zealand
+771,Nebraska, United States,Australia
+772,Alsace, France,France
+773,Porto, Portugal,Portugal
+774,Porto, Portugal,
+775,Brussels, Belgium,Belgium
+776,Scotland, United Kingdom,United Kingdom
+777,Scotland, United Kingdom,
+778,Scotland, United Kingdom,United Kindgonm
+779,Scotland, United Kingdom,Spain
+780,North Island, United States,
+781,North Island, United States,New Zealand
+782,Western Australia, Australia,Australia
+783,Western Australia, Australia,Austria
+784,Não Há Cá Disso ^^,no_info,Portugal
+785,Wales, United Kingdom,United Kingdom
+786,Wales, United Kingdom,Usa
+787,Wales, United Kingdom,Italy
+788,Wales, United Kingdom,
+789,Wales, United Kingdom,Wales
+790,Wales, United Kingdom,Austria
+791,Vizcaya, Spain,Spain
+792,Vizcaya, Spain,Pais Vasco
+793,Ialoveni, Moldova,Moldova
+794,Nc 27243, United States,North Carolina
+795,Cheshire, United Kingdom,United Kingdom
+796,Cheshire, United Kingdom,England
+797,Cheshire, United Kingdom,
+798,West Sussex, United Kingdom,United Kingdom
+799,Renfrewshire, United Kingdom,United Kingdom
+800,Renfrewshire, United Kingdom,Scotland
+801,Girona, Spain,Spain
+802,Girona, Spain,Catalunya
+803,Burgos, Spain,Spain
+804,Antwerpen, Belgium,Belgium
+805,Gipuzkoa, Spain,Spain
+806,Gipuzkoa, Spain,
+807,Gipuzkoa, Spain,Euskal Herria
+808,Bavaria, Germany,Germany
+809,Bavaria, Germany,
+810,Hamburg, Germany,Germany
+811,Hamburg, Germany,New Zealand
+812,Hamburg, Germany,Deutschland
+813,Hamburg, Germany,
+814,Hamburg, Germany,Usa
+815,None, Italy,Usa
+816,None, Italy,Philippines
+817,None, Italy,Denmark
+818,None, Italy,United Kingdom
+819,None, Italy,Trinidad And Tobago
+820,None, Italy,Israel
+821,Italy,Italy,Italy
+822,Italy,Italy,
+823,Italy,Italy,In Europe
+824,Australian Capital Territory, Australia,Australia
+825,Australian Capital Territory, Australia,Spain
+826,Australian Capital Territory, Australia,Czech Republic
+827,Australian Capital Territory, Australia,
+828,Australian Capital Territory, Australia,Italy
+829,Tn,Tunisia,Tennessee
+830,Tn,Tunisia,Rutherford
+831,Franche Comte, France,France
+832,Salzburg, Austria,Austria
+833,Delaware, United States,Usa
+834,Delaware, United States,Canada
+835,Delaware, United States,Dominican Republic
+836,Delaware, United States,Spain
+837,Cantabria, Spain,Spain
+838,N.S.W, United Kingdom,Australia
+839,Mi,United States,Italy
+840,Mi,United States,Usa
+841,Mi,United States,Michigan
+842,Málaga, Spain,Spain
+843,Okinawa, Japan,Japan
+844,Okinawa, Japan,
+845,Liguria, Italy,Italy
+846,Liguria, Italy,
+847,Kuwait,Kuwait,Kuwait
+848,Santa Cruz De Tenerife, Spain,Spain
+849,Santa Cruz De Tenerife, Spain,Canary Islands
+850,Stroud, United Kingdom,United Kingdom
+851,Ix Región, Finland,
+852,Callao, Peru,Peru
+853,Canada,Canada,Canada
+854,Alpes Maritimes, France,France
+855,Bruxelles, Belgium,Belgium
+856,Kent, United Kingdom,United Kingdom
+857,Kent, United Kingdom,
+858,Kent, United Kingdom,England
+859,Kent, United Kingdom,Uk
+860,Pyrenees Atlantiques, France,France
+861,Galicia, Spain,Spain
+862,Galicia, Spain,
+863,Guayas, Ecuador,Ecuador
+864,Va,Vatican City,Virginia
+865,Va,Vatican City,Prince William
+866,Va,Vatican City,Usa
+867,Noord-Brabant, Netherlands,Netherlands
+868,Surrey, United Kingdom,United Kingdom
+869,Surrey, United Kingdom,
+870,Surrey, United Kingdom,England
+871,Rhone Alpes, France,France
+872,Dc, United States,Usa
+873,Dc, United States,Dc
+874,Dc, United States,
+875,Dc, United States,Spain
+876,Dc, United States,Egypt
+877,Dc, United States,Venezuela
+878,Dc, United States,Portugal
+879,Dc, United States,Norway
+880,Dc, United States,United States
+881,A Coruña, Spain,Spain
+882,A Coruña, Spain,España
+883,A Coruña, Spain,
+884,Corcaigh, Ireland,Ireland
+885,Nottingham, United Kingdom,United Kingdom
+886,País Vasco, Spain,Spain
+887,País Vasco, Spain,Álava
+888,Kucuk Esat,no_info,Turkey
+889,Leicestershire, United Kingdom,England
+890,Leicestershire, United Kingdom,United Kingdom
+891,Västerbotten, Sweden,Sweden
+892,Piemonte, Italy,Italy
+893,Piemonte, Italy,Usa
+894,Piemonte, Italy,
+895,"""N/A""", Portugal,Germany
+896,"""N/A""", Portugal,Denmark
+897,"""N/A""", Portugal,Spain
+898,"""N/A""", Portugal,Switzerland
+899,"""N/A""", Portugal,Ireland
+900,"""N/A""", Portugal,Italy
+901,"""N/A""", Portugal,Croatia
+902,"""N/A""", Portugal,Belgium
+903,"""N/A""", Portugal,United Kingdom
+904,"""N/A""", Portugal,New Zealand
+905,"""N/A""", Portugal,Netherlands
+906,"""N/A""", Portugal,Thailand
+907,"""N/A""", Portugal,France
+908,"""N/A""", Portugal,
+909,"""N/A""", Portugal,South Korea
+910,"""N/A""", Portugal,Turkey
+911,"""N/A""", Portugal,Luxembourg
+912,"""N/A""", Portugal,Hungary
+913,"""N/A""", Portugal,"""N/A"""
+914,"""N/A""", Portugal,Portugal
+915,"""N/A""", Portugal,China
+916,"""N/A""", Portugal,Mexico
+917,"""N/A""", Portugal,Norway
+918,"""N/A""", Portugal,Finland
+919,"""N/A""", Portugal,Argentina
+920,Lagos, Nigeria,Nigeria
+921,São Paulo, Brazil,Brazil
+922,Alentejo, Portugal,Portugal
+923,Alentejo, Portugal,
+924,Herts., Israel,England
+925,Traveling Nurse Do 3 Months At A Time All Over Us,no_info,Usa
+926,Banks Peninsula, New Zealand,New Zealand
+927,East Anglia, United Kingdom,United Kingdom
+928,Sheffield, United Kingdom,United Kingdom
+929,Vaud, Switzerland,Switzerland
+930,Palmerston North, New Zealand,New Zealand
+931,Liège, Belgium,Belgium
+932,Zuid-Holland, Netherlands,Netherlands
+933,Zuid-Holland, Netherlands,
+934,Haute Garonne, France,France
+935,Rhône, France,France
+936,Sicilia, Italy,Italy
+937,Sicilia, Italy,Italia
+938,Sicilia, Italy,Spain
+939,Picardie, France,France
+940,East Java, Indonesia,Indonesia
+941,Pirkanmaa, Finland,Finland
+942,Almaty Oblast, Kazakhstan,Kazakhstan
+943,Delhi, India,India
+944,Delhi, India,Philippines
+945,Kuala Lumpur, Malaysia,Malaysia
+946,Campania, Italy,Italy
+947,Campania, Italy,Australia
+948,Campania, Italy,
+949,Campania, Italy,Usa
+950,Guangdong, China,China
+951,Portugal,Portugal,Brazil
+952,Portugal,Portugal,Portugal
+953,Portugal,Portugal,
+954,Illes Balears, Spain,Spain
+955,Illes Balears, Spain,United Kingdom
+956,Baveria,no_info,Germany
+957,Giza Governate,no_info,Egypt
+958,Notts, Australia,United Kingdom
+959,Steiermark, Austria,Austria
+960,Aragon, Spain,Spain
+961,Herefordshire, United Kingdom,United Kingdom
+962,Córdoba, Spain,Argentina
+963,Córdoba, Spain,Spain
+964,Vale Do Sousa, Portugal,Portugal
+965,Ca,Canada,California
+966,Ca,Canada,Usa
+967,Ca,Canada,United States
+968,Maharashtra, India,India
+969,Norfolk, United Kingdom,United Kingdom
+970,Norfolk, United Kingdom,England
+971,Wyoming, United States,Usa
+972,Wyoming, United States,Spain
+973,Wyoming, United States,Netherlands
+974,Wyoming, United States,
+975,Wyoming, United States,Switzerland
+976,Wyoming, United States,Denmark
+977,Copenhagen, Denmark,Denmark
+978,Brisbane, Australia,Queensland
+979,Brisbane, Australia,Australia
+980,Ottawa, Canada,Ontario
+981,Aturias,no_info,Spain
+982,Ourense, Spain,Spain
+983,Seoul, South Korea,South Korea
+984,Región Metropolitana, Chile,Chile
+985,Pays De La Loire, France,France
+986,Distrito Capital, Paraguay,Venezuela
+987,Haute-Garonne, France,France
+988,Haute-Garonne, France,
+989,Nrw, Germany,Germany
+990,Nrw, Germany,
+991,Festa Da Língua,no_info,Galiza
+992,Il, United States,Illinois
+993,Il, United States,Israel
+994,Il, United States,Usa
+995,Cumbria, United Kingdom,United Kingdom
+996,Cumbria, United Kingdom,England
+997,Navarra, Spain,Spain
+998,Navarra, Spain,España
+999,Yorkshire, United States,United Kingdom
+1000,Sjælland, Denmark,Denmark
+1001,Catalonia, Spain,Spain
+1002,Catalonia, Spain,Catalonia
+1003,Franche-Comté, France,France
+1004,Zuerich, Switzerland,Switzerland
+1005,Ceredigion, United Kingdom,United Kingdom
+1006,Australia,Australia,Australia
+1007,Wp, Poland,Malaysia
+1008,Comunidad De Madrid, Spain,Spain
+1009,Zuid Holland, Netherlands,Netherlands
+1010,Zuid Holland, Netherlands,
+1011,Zug, Switzerland,Switzerland
+1012,Franken, France,Germany
+1013,Aveiro, Portugal,Portugal
+1014,Aveiro, Portugal,
+1015,Buenos Aires, Argentina,Argentina
+1016,Buenos Aires, Argentina,
+1017,Normandy, France,France
+1018,Northern Ireland, United Kingdom,United Kingdom
+1019,Northern Ireland, United Kingdom,Ireland
+1020,Northern Ireland, United Kingdom,Usa
+1021,Western Province, Zambia,South Africa
+1022,Tyne And Wear, United Kingdom,United Kingdom
+1023,Genève, Switzerland,Switzerland
+1024,Andalucía, Spain,Spain
+1025,Co. Cork, Ireland,Ireland
+1026,East Ayrshire, United Kingdom,Scotland
+1027,Aragón, Spain,Spain
+1028,Puerto Rico, United States,Usa
+1029,Puerto Rico, United States,Puerto Rico
+1030,Sardegna, Italy,Italy
+1031,Sardegna, Italy,Spain
+1032,Sardegna, Italy,Usa
+1033,Sardegna, Italy,Germany
+1034,Nj, United States,New Jersey
+1035,Nj, United States,Usa
+1036,Nj, United States,Camden
+1037,Japan,Japan,Japan
+1038,Japan,Japan,Usa
+1039,-,no_info,Switzerland
+1040,-,no_info,Netherlands
+1041,-,no_info,Denmark
+1042,-,no_info,Belgium
+1043,Asturies, Spain,Spain
+1044,Malaga, Spain,Spain
+1045,South America,South America,Brazil
+1046,South America,South America,Chile
+1047,South America,South America,
+1048,Basel, Switzerland,Switzerland
+1049,Manchester, United Kingdom,United Kingdom
+1050,Chiba, Japan,Japan
+1051,Cochabamba, Bolivia,Bolivia
+1052,Otago, New Zealand,New Zealand
+1053,Schwaben, Germany,Germany
+1054,Basel-Stadt, Switzerland,Switzerland
+1055,Choongbuk,no_info,South Korea
+1056,Ae (Armed Forces Europe),no_info,United Kingdom
+1057,Catalunia, Spain,Spain
+1058,Ordrup, Denmark,Denmark
+1059,Bc, Canada,Canada
+1060,Bc, Canada,V9V 1H4
+1061,Bc, Canada,Cananda
+1062,Bc, Canada,
+1063,Bc, Canada,British Columbia
+1064,Essonnes, France,France
+1065,Tayside, Canada,United Kingdom
+1066,Greater Manchester, United Kingdom,United Kingdom
+1067,Greater Manchester, United Kingdom,England
+1068,Indre Et Loire, France,France
+1069,Zh, Palestinian Territory,Netherlands
+1070,Zh, Palestinian Territory,Switzerland
+1071,Zh, Palestinian Territory,
+1072,Manila, Philippines,Philippines
+1073,The Netherlands,Netherlands,Netherlands
+1074,Guipuzcoa, Spain,Spain
+1075,Austria,Austria,Bayern
+1076,Austria,Austria,Austria
+1077,Castilla Y Leon, Spain,Spain
+1078,Brandenburg, Germany,Germany
+1079,Brandenburg, Germany,
+1080,Brandenburg, Germany,Spain
+1081,Isle Of Wight, United Kingdom,United Kingdom
+1082,Zurich, Switzerland,Switzerland
+1083,Ile-De-France, France,France
+1084,Ile-De-France, France,
+1085,Taranaki, New Zealand,
+1086,Taranaki, New Zealand,New Zealand
+1087,Staffordshire, United Kingdom,United Kingdom
+1088,Staffordshire, United Kingdom,England
+1089,Avon, France,United Kingdom
+1090,Avon, France,
+1091,Limburg, Netherlands,Netherlands
+1092,Limburg, Netherlands,Belgium
+1093,Limousin, France,France
+1094,Galiza, Spain,Spain
+1095,Sarthe, France,France
+1096,Hyogo, Japan,Japan
+1097,Or, United States,Usa
+1098,Or, United States,Oregon
+1099,Aargau, Switzerland,Switzerland
+1100,Norway,Norway,Norway
+1101,Cornwall, United Kingdom,United Kingdom
+1102,Cornwall, United Kingdom,Uk
+1103,Luxembourg,Luxembourg,Belgium
+1104,Luxembourg,Luxembourg,Luxembourg
+1105,Derbyshire, United Kingdom,United Kingdom
+1106,Region Metropolitana, Chile,Chile
+1107,West Lothian, United Kingdom,United Kingdom
+1108,Ticino, Switzerland,Switzerland
+1109,Ticino, Switzerland,
+1110,Las Palmas De Gran Canaria, Spain,Spain
+1111,Umbria, Italy,Italy
+1112,Umbria, Italy,
+1113,Umbria, Italy,Usa
+1114,Umbria, Italy,United Kingdom
+1115,Mexico City, Mexico,Mexico
+1116,Castilla Y León, Spain,Spain
+1117,Comunidad Valenciana, Spain,Spain
+1118,Kota Raja, Indonesia,Malaysia
+1119,Grand Bahama, The Bahamas,Bahamas
+1120,Transilvania, Romania,Italy
+1121,Keski-Suomi, Finland,Finland
+1122,Schaffhausen, Switzerland,Switzerland
+1123,Israel,Israel,Israel
+1124,Noordholland, Netherlands,Netherlands
+1125,Tehran, Iran,Iran
+1126,Fribourg, Switzerland,Switzerland
+1127,Ap, Brazil,Usa
+1128,Ap, Brazil,Okinawa
+1129,Catalunya - Barcelona, Spain,Spain
+1130,Groningen, Netherlands,Netherlands
+1131,Murcia, Spain,Spain
+1132,D.N., Vietnam,Dominican Republic
+1133,Zhejiang, China,China
+1134,Haifa, Israel,Israel
+1135,Isle Of Man Uk, United Kingdom,United Kingdom
+1136,West Midlands, United Kingdom,United Kingdom
+1137,Baden Württemberg, Germany,Germany
+1138,West Yorkshire, United Kingdom,United Kingdom
+1139,West Yorkshire, United Kingdom,England
+1140,West Yorkshire, United Kingdom,
+1141,I`M On The Move,no_info,Usa Now
+1142,Pd, Poland,Italy
+1143,Cantebury, United States,New Zealand
+1144,Cuneo - Piemonte, Italy,Italy
+1145,Geneva, Switzerland,Switzerland
+1146,Midlothian, United Kingdom,United Kingdom
+1147,Midlothian, United Kingdom,
+1148,Keighley, United Kingdom,West Yorkshire
+1149,Keighley, United Kingdom,England
+1150,Itä-Suomi, Finland,Finland
+1151,Quintana Roo, Mexico,Mexico
+1152,Mazowieckie, Poland,Poland
+1153,France,France,France
+1154,France,France,Ile De France
+1155,North Yorkshire, United Kingdom,England
+1156,North Yorkshire, United Kingdom,United Kingdom
+1157,Calabria, Italy,Canada
+1158,Calabria, Italy,Usa
+1159,Calabria, Italy,Spain
+1160,Calabria, Italy,Italy
+1161,Calabria, Italy,Germany
+1162,Basel-Land, Switzerland,Switzerland
+1163,Abruzzo, Italy,Italy
+1164,Abruzzo, Italy,Canada
+1165,Abruzzo, Italy,Netherlands
+1166,Abruzzo, Italy,Australia
+1167,Abruzzo, Italy,Mexico
+1168,Abruzzo, Italy,Spain
+1169,Nordrheinwestfalen,no_info,Germany
+1170,Manawatu, New Zealand,New Zealand
+1171,Manawatu, New Zealand,
+1172,Vienna, Austria,Austria
+1173,Vienna, Austria,
+1174,Braga, Portugal,Portugal
+1175,Davao Del Sur, Philippines,Philippines
+1176,Nord, France,France
+1177,Tuscany - Chiantishire,no_info,Italy
+1178,Galiza Neghra,no_info,Galiza Neghra
+1179,Santiago, Costa Rica,Chile
+1180,Santiago, Costa Rica,
+1181,Trentino Alto Adige, Italy,Italy
+1182,Trentino Alto Adige, Italy,Usa
+1183,Trentino Alto Adige, Italy,United Kingdom
+1184,Porto - Portugal, Portugal,Portugal
+1185,Sussex, United States,United Kingdom
+1186,Valladolid, Spain,Spain
+1187,Valladolid, Spain,España
+1188,Bcn, Spain,Spain
+1189,Jharkhand, India,India
+1190,Fort Lauderdale, United States,Usa
+1191,Gwent, United Kingdom,United Kingdom
+1192,Normandie, France,France
+1193,Upper Austria, Austria,Austria
+1194,Cambridgeshire, United Kingdom,United Kingdom
+1195,Csongrád, Hungary,Hungary
+1196,South Island, New Zealand,New Zealand
+1197,Kunsan, China,South Korea
+1198,Rhone-Alpes, France,France
+1199,Isle Of Man,Isle of Man,United Kingdom
+1200,Isle Of Man,Isle of Man,N/A
+1201,Pohjanmaa, Finland,Finland
+1202,Bremen, Germany,Germany
+1203,Bremen, Germany,
+1204,Bremen, Germany,Turkey
+1205,Kanton Zürich, Switzerland,Switzerland
+1206,Kildare, Ireland,Ireland
+1207,Mississippi39571,no_info,Usa
+1208,Reykjavik, Iceland,Iceland
+1209,Beijing, China,China
+1210,Magallanes, Chile,Chile
+1211,Armed Forces Pacific, Australia,Usa
+1212,Soria, Spain,Spain
+1213,Cordoba, Argentina,Argentina
+1214,Häme (Province), Mozambique,Finland
+1215,Rheinland-Pfalz / Hessen, Germany,Germany
+1216,Minas Gerais, Brazil,Brazil
+1217,Abu Dhabi, United Arab Emirates,United Arab Emirates
+1218,Nh, United States,Netherlands
+1219,Nh, United States,New Hampshire
+1220,Tunis,Tunisia,Tunisia
+1221,Z-H, Italy,Netherlands
+1222,Noord Holland, Netherlands,Netherlands
+1223,Uk,United Kingdom,United Kingdom
+1224,Uk,United Kingdom,Aberdeenshire
+1225,Hérault, France,France
+1226,Distrito Federal, Mexico,Brazil
+1227,Distrito Federal, Mexico,Venezuela
+1228,Distrito Federal, Mexico,Mexico
+1229,Kyongsangnam-Do,no_info,South Korea
+1230,Bouches Du Rhone, France,France
+1231,Dortmund, Germany,Germany
+1232,Etela Suomi, Finland,Finland
+1233,El Montserratí,no_info,Catalunya
+1234,Fyn, Denmark,Denmark
+1235,Waikato, New Zealand,New Zealand
+1236,Waikato, New Zealand,
+1237,Prai, Malaysia,Malaysia
+1238,D.F., Mexico,Mexico
+1239,D.F., Mexico,Brazil
+1240,D.F., Mexico,Disrito Federal
+1241,Skane, Sweden,Sweden
+1242,Heredia, Costa Rica,Costa Rica
+1243,Tamil Nadu, India,India
+1244,Sp, Italy,Brazil
+1245,Glarus, Switzerland,Switzerland
+1246,South Yorkshire, United Kingdom,United Kingdom
+1247,Corrientes, Argentina,Argentina
+1248,Ho Chi Minh, Vietnam,Vietnam
+1249,Kuah, Malaysia,Malaysia
+1250,Milano, Italy,Italy
+1251,Milano, Italy,
+1252,Lancashire, United Kingdom,United Kingdom
+1253,Lancashire, United Kingdom,England
+1254,Gamlebyen, Norway,Norway
+1255,Uusimaa, Finland,Finland
+1256,Mendoza, Argentina,Argentina
+1257,Ribatejo, Germany,Portugal
+1258,Xxxxxx,no_info,Netherlands
+1259,Ccp, Algeria,Chile
+1260,D.C., United States,Dc
+1261,D.C., United States,District Of Columbia
+1262,Castilla La Mancha, Spain,Spain
+1263,Vic, Australia,Australia
+1264,Kerala, India,
+1265,Kerala, India,India
+1266,Nagano-Ken, Japan,Japan
+1267,Melaka, Malaysia,Malaysia
+1268,Östergötland, Sweden,Sweden
+1269,Tx, United States,Texas
+1270,Tx, United States,Collin
+1271,Tx, United States,
+1272,Tx, United States,Usa
+1273,Tx, United States,Csa
+1274,Tx, United States,Fort Bend
+1275,Chihuahua, Mexico,Mexico
+1276,Charleroi, Belgium,Belgium
+1277,Usa,United States,
+1278,Usa,United States,Usa
+1279,N,Niue,United Kingdom
+1280,N,Niue,Denmark
+1281,Cleveland, United States,United Kingdom
+1282,Loire Atlantique, France,France
+1283,Rhône-Alpes, France,France
+1284,Rhône-Alpes, France,
+1285,My Infinite Mind,no_info,Universe
+1286,Friesland, Netherlands,
+1287,Friesland, Netherlands,Netherlands
+1288,N/J, United States,Austria
+1289,N/J, United States,Denmark
+1290,Jiangsu, China,China
+1291,Osona, Spain,Spain
+1292,Amsterdam, Netherlands,Netherlands
+1293,Wiltshire, United Kingdom,United Kingdom
+1294,Wiltshire, United Kingdom,
+1295,Canarias, Spain,Spain
+1296,Brabant, United States,Belgium
+1297,Brabant, United States,Netherlands
+1298,Østlandet, Norway,Norway
+1299,Bay Of Plenty, New Zealand,New Zealand
+1300,Hainault, United Kingdom,Belgium
+1301,Auvergne, France,France
+1302,Prenzlauer Berg, Germany,Germany
+1303,Cádiz, Spain,Spain
+1304,Las Palmas, Spain,España
+1305,Las Palmas, Spain,Spain
+1306,Dubai, United Arab Emirates,United Arab Emirates
+1307,South Vietnam, Germany,
+1308,Álava, Spain,Spain
+1309,Álava, Spain,
+1310,Asturias, Spain,Spain
+1311,Asturias, Spain,
+1312,Northwest Territories, Canada,Canada
+1313,Northwest Territories, Canada,United Kingdom
+1314,Northwest Territories, Canada,Germany
+1315,Northwest Territories, Canada,Usa
+1316,Fife, United Kingdom,United Kingdom
+1317,Guangdong Province, China,China
+1318,Luzern, Switzerland,Switzerland
+1319,Häme, Belgium,Finland
+1320,Svealand, Sweden,Sweden
+1321,*,no_info,Netherlands
+1322,*,no_info,France
+1323,Pais Vasco, Spain,Spain
+1324,Pais Vasco, Spain,Gipuzkoa
+1325,Abilene, United States,Usa
+1326,Western Cape, South Africa,South Africa
+1327,Western Cape, South Africa,
+1328,Spain,Spain,Spain
+1329,Hauts-De-Seine, France,France
+1330,Bouche Du Rhone, France,France
+1331,Southland, New Zealand,New Zealand
+1332,Lara,Laos,Venezuela
+1333,Orense, Spain,Spain
+1334,Orense, Spain,Orense
+1335,South Holland, Netherlands,Netherlands
+1336,Edo State, Nigeria,Nigeria
+1337,Région Parisienne, Greece,France
+1338,Lamks,no_info,United Kingdom
+1339,Munster, Ireland,Ireland
+1340,Munster, Ireland,County Cork
+1341,Gautang, India,South Africa
+1342,Buckinghamshire, United Kingdom,United Kingdom
+1343,Buckinghamshire, United Kingdom,Uk
+1344,Berkshire, United Kingdom,United Kingdom
+1345,Berkshire, United Kingdom,England
+1346,Haute Normandie, France,France
+1347,Dalarna, Sweden,Sweden
+1348,Rio De Janeiro, Brazil,Brazil
+1349,Rio De Janeiro, Brazil,Usa
+1350,Estado De México, Mexico,Mexico
+1351,Istanbul, Turkey,Turkey
+1352,Hampshire, United Kingdom,United Kingdom
+1353,East Sussex, United Kingdom,United Kingdom
+1354,Selangor D.E.,no_info,Malaysia
+1355,Imo State, Nigeria,N/A
+1356,Cáceres, Spain,Spain
+1357,Oberösterreich, Austria,Austria
+1358,Gauteng, South Africa,South Africa
+1359,Md, United States,Maryland
+1360,Worcestershire, United Kingdom,United Kingdom
+1361,Worcestershire, United Kingdom,England
+1362,Rm, Italy,Italy
+1363,Nsw, Australia,
+1364,Nsw, Australia,Australia
+1365,Zg, Switzerland,Switzerland
+1366,Minnasota,no_info,Usa
+1367,Brabant Wallon, Belgium,Belgium
+1368,Reggio Emilia, Italy,Italy
+1369,United Kingdom (Sussex), United Kingdom,United Kingdom
+1370,Act, Australia,Australia
+1371,Act, Australia,Australian Capital Territory
+1372,Nord Pas De Calais, France,France
+1373,España,Spain,Spain
+1374,España,Spain,
+1375,Sofia, Bulgaria,Cameroon
+1376,Sofia, Bulgaria,Bulgaria
+1377,Eastgermany,no_info,Germany
+1378,Overijssel, Netherlands,Netherlands
+1379,Overijssel, Netherlands,
+1380,Nuevo Leon, Mexico,Mexico
+1381,Tokyo, Japan,Japan
+1382,Tokyo, Japan,
+1383,Devon, United Kingdom,United Kingdom
+1384,Torino, Italy,Italy
+1385,Cambronne, France,France
+1386,Region Parisienne, Greece,France
+1387,Lleida, Spain,Spain
+1388,Lima, Peru,Peru
+1389,Aberdeenshire, United Kingdom,United Kingdom
+1390,Aberdeenshire, United Kingdom,
+1391,Cavite, Philippines,Philippines
+1392,Down By The River, United States,Germany
+1393,Alava, Spain,Spain
+1394,Alava, Spain,
+1395,Ag,Antigua and Barbuda,Switzerland
+1396,Uttar Pradesh, India,India
+1397,None Available,no_info,Portugal
+1398,Dorset, United Kingdom,United Kingdom
+1399,Algarve, Portugal,Portugal
+1400,Pb, India,Newfoundland
+1401,Pais  Vasco, Spain,España
+1402,Cadiz, Spain,Spain
+1403,Cadiz, Spain,N/A
+1404,Cadiz, Spain,Andalucia
+1405,Prekmurje, Slovenia,Slovenia
+1406,Nord-Pas De Calais, France,France
+1407,New Zealand,New Zealand,New Zealand
+1408,New Zealand,New Zealand,Otago
+1409,Jujuy, Argentina,Argentina
+1410,Wilayah Persekutuan, Brazil,Malaysia
+1411,Shanghai, China,China
+1412,Wellington, New Zealand,New Zealand
+1413,Provence, Switzerland,France
+1414,Gifu, Japan,Japan
+1415,State Of Continuing Flux,no_info,Usa
+1416,Val De Marne, France,France
+1417,Luang Prabang, Laos,Laos
+1418,Kyonggido,no_info,South Korea
+1419,Silesia, Poland,Poland
+1420,Sydney, Australia,Australia
+1421,Sydney, Australia,New South Wales
+1422,Covilhã, Portugal,Portugal
+1423,Oslo, Norway,Norway
+1424,Dublin, Ireland,Ireland
+1425,Dublin, Ireland,
+1426,Ae,United Arab Emirates,Usa
+1427,Ae,United Arab Emirates,Baden-Wuerttemberg
+1428,Ae,United Arab Emirates,Germany
+1429,Acworth, United States,New York
+1430,Idf, Germany,France
+1431,Mexico,Mexico,Mexico
+1432,Mexico,Mexico,Usa
+1433,Vestfold, Denmark,Norway
+1434,New Bru, United States,New Brunswick
+1435,Västergötland, Sweden,Sweden
+1436,Middlesex, United Kingdom,United Kingdom
+1437,Middlesex, United Kingdom,
+1438,St.Gallen, Switzerland,Switzerland
+1439,Gelderland, Netherlands,Netherlands
+1440,Gelderland, Netherlands,
+1441,A/N, United Kingdom,Kuwait
+1442,Granada, Spain,Spain
+1443,N.A., Portugal,Germany
+1444,N.A., Portugal,Ireland
+1445,Champagne Ardennes, France,France
+1446,In,India,Indiana
+1447,Rangoon, Myanmar,Burma
+1448,Leeds, United Kingdom,England
+1449,Bangkok, Thailand,Thailand
+1450,Biella, Italy,Italy
+1451,Guipúzcoa, Spain,Spain
+1452,Bavaria/Bayern, Germany,Germany
+1453,Washington State, United States,Usa
+1454,Vlaams-Brabant, Belgium,
+1455,Vlaams-Brabant, Belgium,Belgium
+1456,Zaragoza-España, Spain,Spain
+1457,Tirol, Austria,Austria
+1458,Flevoland, Netherlands,Netherlands
+1459,Midi-Pyrenées, France,France
+1460,Al,Albania,Shelby
+1461,Al,Albania,Alabama
+1462,Aude, France,France
+1463,Seine (Paris), France,France
+1464,Etelä-Suomen Lääni, Finland,Finland
+1465,Tochigi, Japan,Japan
+1466,Michigan Usa, United States,
+1467,Coimbra, Portugal,Portugal
+1468,Coimbra, Portugal,
+1469,St. Thomas, France,Usa
+1470,St. Thomas, France,Barbados
+1471,Nord-Pas-De-Calais, France,France
+1472,Lincolnshire, United Kingdom,United Kingdom
+1473,Lothian, New Zealand,United Kingdom
+1474,Lothian, New Zealand,Scotland
+1475,Kanagawa, Japan,Japan
+1476,Rep Of Ireland,no_info,Ireland
+1477,Giza Governerate,no_info,Egypt
+1478,La Rioja, Argentina,Spain
+1479,Sao Paulo, Brazil,Brazil
+1480,Hackney, United Kingdom,United Kingdom
+1481,N/A Paca,no_info,France
+1482,Tel Aviv, Israel,Israel
+1483,&#322;Ódzkie,no_info,Poland
+1484,Somerset, United Kingdom,United Kingdom
+1485,Somerset, United Kingdom,England
+1486,Li,Liechtenstein,New York
+1487,Bas Rhin, France,France
+1488,Bizkaia, Spain,Spain
+1489,Bizkaia, Spain,
+1490,Vienne, Austria,France
+1491,Kärnten, Austria,
+1492,Kärnten, Austria,Austria
+1493,Canarias/Gran Canaria, Spain,Spain
+1494,Fzmnuoi,no_info,Tdzimi
+1495,Molise, Italy,Italy
+1496,Lorraine, France,France
+1497,Lorraine, France,
+1498,Milky Way, France,Space
+1499,Guam, United States,Usa
+1500,Morelos, Mexico,Mexico
+1501,Morelos, Mexico,
+1502,Punjab, India,
+1503,Punjab, India,Pakistan
+1504,Punjab, India,India
+1505,St. Gallen, Switzerland,Switzerland
+1506,Islas Baleares, Spain,Spain
+1507,Rio Grande Do Sul, Brazil,Brazil
+1508,Sabah, Malaysia,Malaysia
+1509,Ma, United States,Worcester
+1510,Ma, United States,Massachusetts
+1511,Ma, United States,Usa
+1512,North Lincolnshire, United Kingdom,United Kingdom
+1513,Ethiopia,Ethiopia,Ethiopia
+1514,Herault, France,France
+1515,Northamptonshire, United Kingdom,United Kingdom
+1516,Var, France,France
+1517,Savoie, France,France
+1518,Baselland, Switzerland,Switzerland
+1519,Northland, New Zealand,New Zealand
+1520,Karnataka, India,India
+1521,Federal Territory Of Labuan, Malaysia,Malaysia
+1522,Limpopo, South Africa,South Africa
+1523,Barreiro, Portugal,Portugal
+1524,Noordoostpolder, Netherlands,Netherlands
+1525,Bolzano, Italy,Italy
+1526,Hautes Pyrenees, France,France
+1527,Chiba Ken, Japan,Japan
+1528,Essex, United Kingdom,United Kingdom
+1529,Essex, United Kingdom,England
+1530,Mo, United States,United States
+1531,Mo, United States,Missouri
+1532,Mo, United States,
+1533,Mo, United States,Usa
+1534,Aveyron, France,France
+1535,Stockholm City, Sweden,Sweden
+1536,Figueira Da Foz, Portugal,
+1537,Midi Pyrenees, France,France
+1538,Hong Kong Sar, China,Hong Kong
+1539,W.P, Philippines,Malaysia
+1540,South Canterbury, Australia,New Zealand
+1541,Co.Wicklow, Ireland,Ireland
+1542,Berner Oberland, Switzerland,Switzerland
+1543,Santiago De Compostela, Spain,España
+1544,Valparaíso, Chile,Chile
+1545,Texel, Netherlands,Netherlands
+1546,Wallonia, Belgium,Belgium
+1547,Hubei Province, China,China
+1548,Prahova, Romania,Romania
+1549,Loire-Atlantique, France,France
+1550,Gironde, France,France
+1551,Västra Götaland, Sweden,Sweden
+1552,Wva, Egypt,Usa
+1553,Pohjois-Savo, Finland,Finland
+1554,Arruda Dos Vinhos, Portugal,Portugal
+1555,Ne,China,Usa
+1556,Leinster, Ireland,Ireland
+1557,Nordrheinwestfahlen,no_info,Germany
+1558,Badajoz, Spain,Spain
+1559,Badajoz, Spain,
+1560,Gujarat, India,India
+1561,Antarctica,Antarctica,Antarctica
+1562,Extremadura, Spain,Spain
+1563,Extremadura, Spain,Portugal
+1564,Guadalajara, Mexico,Spain
+1565,Hertfordshire, United Kingdom,United Kingdom
+1566,Hertfordshire, United Kingdom,
+1567,Hertfordshire, United Kingdom,Uk
+1568,Hertfordshire, United Kingdom,England
+1569,Haineut,no_info,Belgium
+1570,Sarawak, Malaysia,Malaysia
+1571,Co. Dublin, Ireland,Ireland
+1572,Angus, United Kingdom,United Kingdom
+1573,País Valencià, Spain,Spain
+1574,Metro Manila, Philippines,Philippines
+1575,Metro Manila, Philippines,N/A
+1576,Gorizia, Italy,
+1577,Västra Götalands Län, Sweden,Sweden
+1578,Nashville, United States,Tn
+1579,"""N/A`", Portugal,Philippines
+1580,Martinique, France,Malaysia
+1581,Rhône Alpes, France,France
+1582,Rhône Alpes, France,
+1583,Ia, United States,Polk
+1584,Capital District, Philippines,Argentina
+1585,València, Spain,Spain
+1586,B.C., Canada,Canada
+1587,B.C., Canada,British Columbia
+1588,B.C., Canada,
+1589,B.C., Canada,Mexico
+1590,Seine Maritime, France,France
+1591,Tarragona, Spain,Spain
+1592,Cebu, Philippines,Philippines
+1593,Västmanland, Sweden,Sweden
+1594,York, United Kingdom,North Yorkshire
+1595,York, United Kingdom,United Kingdom
+1596,Perth, Australia,Australia
+1597,Bahia, Brazil,Brazil
+1598,Roma, Italy,Italy
+1599,Athens, Greece,Greece
+1600,Phnom Penh, Cambodia,Cambodia
+1601,Aosta, Italy,Italy
+1602,Nord Pas-De-Calais, France,France
+1603,Takaka, Bangladesh,New Zealand
+1604,Iceland,Iceland,Iceland
+1605,Id,Indonesia,Usa
+1606,Karelia, Russia,Russia
+1607,Cork, Ireland,Ireland
+1608,Østjylland, Denmark,Denmark
+1609,Motueka, New Zealand,Nz
+1610,Kwa-Zulu Natal, South Africa,South Africa
+1611,Wa, United States,Australia
+1612,Wa, United States,Washington
+1613,Wa, United States,Usa
+1614,Montreal, Canada,Travelling....
+1615,Montreal, Canada,Quebec
+1616,Nord Holland, Germany,Netherlands
+1617,Petach Tikvah, Israel,Israel
+1618,Masvingo, Zimbabwe,Zimbabwe
+1619,Baleares, Spain,Spain
+1620,Eire,Ireland,Ireland
+1621,Vorarlberg, Austria,Austria
+1622,Estremadura, Spain,Portugal
+1623,Estremadura, Spain,
+1624,Vd, Switzerland,Switzerland
+1625,Sachsen-Anahlt, Germany,Germany
+1626,Here And There, United States,Here And There
+1627,Aube, France,France
+1628,Jutland, Denmark,Denmark
+1629,Jutland, Denmark,
+1630,Northwood, United States,United Kingdom
+1631,Tx., United States,Cherokee
+1632,Middx,no_info,United Kingdom
+1633,Middx,no_info,
+1634,Stockholms Län, Sweden,Sweden
+1635,Zeeland, Netherlands,Netherlands
+1636,Holdfastbay,no_info,South Australia
+1637,W. P., Philippines,Malaysia
+1638,Pampanga, Philippines,Philippines
+1639,Andhra Pradesh, India,India
+1640,Barcelona (Catalunya), Spain,Spain
+1641,Hong Kong, China,Hong Kong
+1642,Gers, France,France
+1643,Unknown, The Bahamas,Germany
+1644,Unknown, The Bahamas,Unknown
+1645,Unknown, The Bahamas,Usa
+1646,West  Yorkshire, United Kingdom,United Kingdom
+1647,Peeblesshire, United Kingdom,United Kingdom
+1648,Il De France, France,France
+1649,Dolj, Romania,Romania
+1650,Nordrhein Westfalen, Germany,Germany
+1651,Georga, Poland,Usa
+1652,Vallès Occidental, Spain,Spain
+1653,Aquitaine, France,France
+1654,Salamanca, Spain,Spain
+1655,Pa.,Panama,Pennsylvania
+1656,Espinho, Portugal,Portugal
+1657,Uri, Switzerland,Switzerland
+1658,Québec, Canada,Canada
+1659,Bideford, United Kingdom,England
+1660,Region De Murcia, Spain,Spain
+1661,Jakarta, Indonesia,Indonesia
+1662,Jakarta, Indonesia,Singapore
+1663,Jakarta, Indonesia,
+1664,Västragötaland,no_info,Sweden
+1665,Heraut, Netherlands,
+1666,Côte D`Or, France,Bourgogne
+1667,Arinsal (La Massana), Andorra,Andorra
+1668,Bacau, Romania,Romania
+1669,Ostfriesland, Germany,Germany
+1670,Rhone, France,France
+1671,Castellón, Spain,Spain
+1672,North Otago, New Zealand,New Zealand
+1673,Tr,Turkey,Turkey
+1674,Menorca, Spain,Spain
+1675,A Estrada, Spain,Pontevedra
+1676,North Brabant, Netherlands,Netherlands
+1677,Dalsland, Sweden,Sweden
+1678,Westland, United States,New Zealand
+1679,Noord Brabant, Netherlands,Netherlands
+1680,Pest Megye, Hungary,Hungary
+1681,Slovenia,Slovenia,
+1682,Slovenia,Slovenia,Slovenia
+1683,Brussels-Capital, Belgium,Belgium
+1684,Zuidholland, Netherlands,Netherlands
+1685,Town Of Bali, Russia,"""N/A"""
+1686,Castilla-Leon, Spain,Spain
+1687,Ncr, Philippines,Philippines
+1688,Me 04005, United States,Maine
+1689,Judean Hills, Palestinian Territory,Israel
+1690,Sandrigham,no_info,Australia
+1691,Backwater, Australia,Montana
+1692,Alcobaça, Portugal,Portugal
+1693,Zürcher Unterland, Switzerland,Switzerland
+1694,Setúbal, Portugal,Portugal
+1695,Hh, Germany,Germany
+1696,Germany,Germany,
+1697,Germany,Germany,Germany
+1698,Vlaams Brabant, Belgium,Belgium
+1699,Bihor, Romania,Romania
+1700,Besiktas, Turkey,Turkey
+1701,Tasman, New Zealand,New Zealand
+1702,Anywhere - Usa, United States,Usa
+1703,Tooting, United Kingdom,United Kingdom
+1704,Sicily, Italy,Italy
+1705,Sinaloa, Mexico,Mexico
+1706,Midlands, Zimbabwe,Ireland
+1707,Midlands, Zimbabwe,United Kingdom
+1708,Tejas, United States,Usa
+1709,Uppland, Sweden,Sweden
+1710,Virgin Islands, United States,Usa
+1711,São Vicente, Brazil,
+1712,Mid-Glamorgan, United Kingdom,Wales
+1713,Hauts De Seine, France,France
+1714,North Holland, Netherlands,Netherlands
+1715,Jersey,Jersey,United Kingdom
+1716,Jersey,Jersey,Jersey
+1717,Berks, United Kingdom,England
+1718,Berks, United Kingdom,United Kingdom
+1719,Pas De Calais, France,France
+1720,Ca. 95301, United States,California
+1721,Nias Island, Canada,North Sumatera
+1722,Minho, Spain,Portugal
+1723,Denmark,Denmark,Denmark
+1724,Niederrhein,no_info,Germany
+1725,Modena, Italy,Italy
+1726,Madeira, Portugal,Portugal
+1727,Sharon, United States,Israel
+1728,Països Catalans, Spain,Spain
+1729,København, Denmark,Denmark
+1730,Franconia, United States,Germany
+1731,West Midlans,no_info,Uk
+1732,Attica, Greece,Greece
+1733,Glamorgan, Canada,United Kingdom
+1734,Saarland, Germany,Germany
+1735,Saarland, Germany,Pakistan
+1736,Saarland, Germany,Singapore
+1737,Saarland, Germany,
+1738,Saarland, Germany,Australia
+1739,Soure, Portugal,Portugal
+1740,Isere, France,France
+1741,Mugla, Turkey,Turkey
+1742,Warwickshire, United Kingdom,United Kingdom
+1743,Swizerland,no_info,Switzerland
+1744,*N/A*, Portugal,Spain
+1745,Kaernten, Austria,Austria
+1746,La Coruña, Spain,Spain
+1747,Bolivia,Bolivia,Bolivia
+1748,Ille De France, France,France
+1749,Las Palmas (Islas Canarias), Spain,Spain
+1750,Cambs, United Kingdom,United Kingdom
+1751,Cambs, United Kingdom,
+1752,Gummersbach, Germany,Germany
+1753,Kelantan, Malaysia,Malaysia
+1754,Franche Comté, France,France
+1755,Messinia, United States,Greece
+1756,Mn, United States,Usa
+1757,Mn, United States,Minnesota
+1758,Nordtirol, Austria,Austria
+1759,Bali, France,Indonesia
+1760,Vlc, Spain,Spain
+1761,Midwest, United States,Usa
+1762,Ensenada, Mexico,Mexico
+1763,Fl, United States,Florida
+1764,Fl, United States,Hernando
+1765,Fl, United States,
+1766,Euskadi, Spain,Spain
+1767,Northern Territory, Australia,France
+1768,Northern Territory, Australia,Australia
+1769,Northern Territory, Australia,Usa
+1770,Northern Territory, Australia,Spain
+1771,Thüringen, Germany,Germany
+1772,West Australia, Indonesia,Australia
+1773,Hungary,Hungary,Hungary
+1774,Wicklow, Ireland,Ireland
+1775,Wicklow, Ireland,
+1776,Andalusia, Spain,Spain
+1777,San José, Costa Rica,Costa Rica
+1778,San José, Costa Rica,
+1779,Marche, Italy,Italy
+1780,Marche, Italy,Usa
+1781,Marche, Italy,Netherlands
+1782,San Jose, United States,Costa Rica
+1783,Doubs, France,France
+1784,Pi, Italy,Italy
+1785,Ile D`Oleron, France,France
+1786,Re, Italy,
+1787,Perugia, Italy,Italy
+1788,Vantaa, Finland,Finland
+1789,Kyiv, Ukraine,Ukraine
+1790,Hellerup, Denmark,Denmark
+1791,Federal District, Brazil,Mexico
+1792,Sofiiska, Ukraine,Bulgaria
+1793,Isère, France,France
+1794,Nc, United States,Pender
+1795,Nc, United States,Ee.Uu
+1796,Loir-Et-Cher, France,France
+1797,Hulme, United Kingdom,United Kingdom
+1798,Vastergotland, Sweden,Sweden
+1799,Île De France, France,France
+1800,Halland, Sweden,Sweden
+1801,Djursland, Sweden,Denmark
+1802,Rizal, Philippines,Philippines
+1803,Franklin, United States,New Zealand
+1804,Mid Canterbury, New Zealand,New Zealand
+1805,Jämtland, Sweden,Sweden
+1806,Spain/Catalonia/Barcelona, Spain,Spain
+1807,Merseyside, United Kingdom,United Kingdom
+1808,Ceará, Brazil,Brazil
+1809,Nm, United States,Us
+1810,Nm, United States,Usa
+1811,Haute-Saône, France,France
+1812,Niederoesterreich, Austria,Austria
+1813,Niederoesterreich, Austria,
+1814,Attika, Greece,Greece
+1815,Bas-Rhin, France,France
+1816,Araba, Netherlands,Spain
+1817,"""N/A"".", Portugal,Germany
+1818,"""N/A"".", Portugal,France
+1819,Private, Germany,Canada
+1820,Kwazulu Natal, South Africa,South Africa
+1821,Benalmádena, Spain,Spain
+1822,South Youkshire,no_info,United Kingdom
+1823,Ma³Opolskie,no_info,
+1824,Sassari, Italy,Italy
+1825,Z. Holland, Germany,Netherlands
+1826,Bourgogne, France,France
+1827,Jawa Barat, Indonesia,Indonesia
+1828,Brithish Columbia,no_info,Canada
+1829,Moscow, Russia,Russia
+1830,St Andrew`S, United Kingdom,Guernsey
+1831,Nagasaki, Japan,Japan
+1832,Oson Air Base,no_info,South Korea
+1833,Bw, Germany,Germany
+1834,Cantabury, United Kingdom,New Zealand
+1835,Hawkes Bay, Canada,New Zealand
+1836,Norrbotten, Sweden,Sweden
+1837,Quit, United States,Usa
+1838,Quit, United States,Quit
+1839,Ireland,Ireland,Ireland
+1840,Montgat, Spain,Spain
+1841,Ross-Shire, United Kingdom,United Kingdom
+1842,Ca`,Canada,Usa
+1843,Midi-Pyrénées, France,France
+1844,Neuchâtel, Switzerland,Switzerland
+1845,Rangitikei, New Zealand,New Zealand
+1846,Prague, Czechia,Czech Republic
+1847,I`M Not Part Of The Us,no_info,France
+1848,Guyane,Guyana,France
+1849,Mahrastra,no_info,Andorra
+1850,Oberoesterreich, Austria,Austria
+1851,Huelva, Spain,Spain
+1852,Skåne, Sweden,Sweden
+1853,Tenerife, Spain,Spain
+1854,Tenerife, Spain,Cape Verde
+1855,Sør-Trøndelag, Norway,Norway
+1856,Yedor,no_info,Usa
+1857,Toledo, Spain,Spain
+1858,Bosnia And Herzegovina,Bosnia and Herzegovina,Bosnia And Herzegovina
+1859,Vilnius, Lithuania,Lithuania
+1860,South Korea,South Korea,South Korea
+1861,South Korea,South Korea,Usa
+1862,Brussels Capital Region, Belgium,Belgium
+1863,Riviera, United States,France
+1864,C.T, Spain,Usa
+1865,Paris - Essonne, France,France
+1866,Almeria, Spain,Spain
+1867,Norddeutschland, Germany,Germany
+1868,Wantage, United Kingdom,England
+1869,Maramures, Romania,Romania
+1870,Taman Oug, Malaysia,Malaysia
+1871,Maritime Alps, France,France
+1872,County Cork, Ireland,Ireland
+1873,Channel Islands, United States,Guernsey
+1874,Channel Islands, United States,United Kingdom
+1875,Moving, Italy,Usa
+1876,Be,Belgium,Switzerland
+1877,Essonne, France,France
+1878,Cheshier, United States,United Kingdom
+1879,Nairobi, Kenya,Kenya
+1880,Su, China,Indonesia
+1881,Attiki, Greece,Greece
+1882,Vastra Frolunda, Sweden,Sweden
+1883,Tenessee, Brazil,Usa
+1884,Ternopil`, Ukraine,Ukraine
+1885,Dtto Federal,no_info,Venezuela
+1886,San Carlos, United States,Costa Rica
+1887,Nidwalden, Switzerland,Switzerland
+1888,Oaxaca, Mexico,Mexico
+1889,Camp, Mexico,Kuwait
+1890,Or Usa, United States,Oregon
+1891,Genova, Italy,Italy
+1892,Johor, Malaysia,Malaysia
+1893,China,China,China
+1894,China,China,Hong Kong
+1895,China,China,Shanghai
+1896,Camarines Sur, Philippines,Philippines
+1897,National Capital Region, India,Philippines
+1898,Twente, Netherlands,
+1899,Drenthe, Netherlands,Netherlands
+1900,Paris (75), Morocco,France
+1901,Finistére, France,France
+1902,Bl Hamburg, Germany,Germany
+1903,Scania, France,Sweden
+1904,Sputh Wales,no_info,United Kingdom
+1905,Norwich, United Kingdom,England
+1906,County Galway, Ireland,Ireland
+1907,Bs As, Argentina,Argentina
+1908,Como, Italy,Italy
+1909,North West England, United Kingdom,United Kingdom
+1910,Oeiras, Portugal,Oeiras
+1911,Oeiras, Portugal,Portugal
+1912,B. C., Canada,British Columbia
+1913,Huntingdon, United States,Cambridgeshire
+1914,Latgale, Latvia,Latvia
+1915,Paros, Greece,Greece
+1916,Bruxelles-Capitale, Belgium,Belgium
+1917,Albany,Albania,New Zealand
+1918,Uudenmaan Lääni,no_info,Finland
+1919,Berne, Switzerland,Switzerland
+1920,X, Argentina,X
+1921,Nottinghamshire, United Kingdom,United Kingdom
+1922,Nottinghamshire, United Kingdom,
+1923,Provence Alpes Côte D`Azur, France,France
+1924,North Shore, New Zealand,New Zealand
+1925,Romania,Romania,Romania
+1926,N Carolina, United States,Usa
+1927,Haute-Savoie, France,France
+1928,Haute-Savoie, France,
+1929,County Durham, United Kingdom,United Kingdom
+1930,Lower Saxonary,no_info,Germany
+1931,Pavia, Italy,Italy
+1932,Noord, Suriname,Netherlands
+1933,Brittany, France,France
+1934,Brittany, France,
+1935,Bulgaria,Bulgaria,Bulgaria
+1936,Danang, Vietnam,Vietnam
+1937,Imathia, Greece,Greece
+1938,Nordjylland, Denmark,Denmark
+1939,Languedoc Roussillon, France,France
+1940,Corse, France,France
+1941,Jylland, Denmark,Denmark
+1942,Litoral Norte, Portugal,Portugal
+1943,Hannover, Germany,Germany
+1944,Distrito Nacional, Dominican Republic,Dominican Republic
+1945,Lausanne, Switzerland,Switzerland
+1946,Western Highlands, Papua New Guinea,Guatemala
+1947,Milan, Italy,Italy
+1948,Tullow, Ireland,Co. Carlow
+1949,Aldaya, Spain,Spain
+1950,Antwerp, Belgium,Belgium
+1951,Suffolk, United Kingdom,United Kingdom
+1952,Christchurch, New Zealand,New Zealand
+1953,Christchurch, New Zealand,
+1954,Midi-Pyrenees, France,France
+1955,Paco D` Arcos, Portugal,Portugal
+1956,Goiás, Brazil,Brazil
+1957,Hamilton, Canada,
+1958,Hamilton, Canada,New Zealand
+1959,Mecklenburg/Vorpommern, Germany,Germany
+1960,A.C.T, France,Australia
+1961,Dolnoslaskie, Poland,Poland
+1962,Eure, France,France
+1963,Gifu-Ken, Japan,Japan
+1964,Hk, China,Hong Kong
+1965,Hk, China,China
+1966,Western Isles, United Kingdom,United Kingdom
+1967,Pomorze, Poland,Poland
+1968,Glos, France,United Kingdom
+1969,Louis, Germany,Missouri
+1970,Rheinland Pfalz, Germany,Germany
+1971,Alpes-Maritimes, France,France
+1972,Cs, Italy,Usa
+1973,Kanagawa-Ken, Japan,Japan
+1974,Baden-Würtemberg, Germany,Germany
+1975,Cairo Governorate, Egypt,Egypt
+1976,Nordrhein- Westfalen, Germany,Germany
+1977,Rj, Brazil,Brazil
+1978,Capital Federal, Argentina,Argentina
+1979,Baselstadt,no_info,Switzerland
+1980,Albay, Philippines,Philippines
+1981,Saone Et Loire, France,France
+1982,Wide, Switzerland,We`Re Global!
+1983,Samos, Greece,Greece
+1984,Kings-Heath ?, United Kingdom,United Kingdom
+1985,Northern Holland, Canada,Netherlands
+1986,Wallis, United Kingdom,Switzerland
+1987,Tobago, Trinidad and Tobago,West Indies
+1988,Graubünden, Switzerland,Switzerland
+1989,Cuenca, Spain,Spain
+1990,Watford, United Kingdom,United Kingdom
+1991,Az,Azerbaijan,Usa
+1992,Az,Azerbaijan,Arizona
+1993,Winterthur, Switzerland,Switzerland
+1994,Cambridge, United Kingdom,United Kingdom
+1995,Savona, Italy,Italy
+1996,Newcastle, United Kingdom,New South Wales
+1997,Taipei, Taiwan,Taiwan
+1998,Goa, India,India
+1999,Dunedin, New Zealand,New Zealand
+2000,Me,Mexico,Maine
+2001,Me,Mexico,Us
+2002,Nebr, United States,
+2003,Pomorskie, Poland,Poland
+2004,Us Apo, New Zealand,Germany
+2005,Alacant, Spain,Spain
+2006,H/A, United States,Andorra
+2007,Ciudad De Buenos Aires, Argentina,Argentina
+2008,Mazowiecki, Poland,Poland
+2009,Ron See Comments Pls ...,no_info,Usa
+2010,Leiria, Portugal,Portugal
+2011,.,no_info,Italy
+2012,.,no_info,Saint Lucia
+2013,.,no_info,Portugal
+2014,.,no_info,United Kingdom
+2015,.,no_info,Switzerland
+2016,.,no_info,Zimbabwe
+2017,.,no_info,Belgium
+2018,Thurgau, Switzerland,Switzerland
+2019,Guatemala,Guatemala,Guatemala
+2020,Iloilo, Philippines,Philippines
+2021,Cairo, Egypt,Egypt
+2022,Iasi, Romania,Romania
+2023,Northumberland, United Kingdom,United Kingdom
+2024,Fr,France,Switzerland
+2025,Montevdeo,no_info,Urugua
+2026,Woodford Bridge, United Kingdom,United Kingdom
+2027,Nrw (Nordrhein-Westfalen), Germany,Germany
+2028,Hants, Canada,United Kingdom
+2029,Nr Ringwood,no_info,England
+2030,Puebla, Mexico,Mexico
+2031,Ba,Bosnia and Herzegovina,Italy
+2032,Lancaster, United States,United Kingdom
+2033,Paraná, Brazil,Brazil
+2034,Panama,Panama,Panama
+2035,Tuscany, Italy,Italy
+2036,Cundinamarca, Colombia,Colombia
+2037,Beira Litoral, Brazil,Portugal
+2038,West Lancs, United Kingdom,England
+2039,Sintra, Portugal,Portugal
+2040,Eastern Province, Saudi Arabia,Saudi Arabia
+2041,Eastern Province, Saudi Arabia,South Africa
+2042,Tashkent, Uzbekistan,Uzbekistan
+2043,Sindh, Pakistan,Pakistan
+2044,Bergamo, Italy,Italy
+2045,Nunavut, Canada,Canada
+2046,Warwick, United Kingdom,Bermuda
+2047,Basque Country, Spain,Spain
+2048,Northrhine-Westfalia,no_info,Germany
+2049,Alor Star, Malaysia,Kedah
+2050,San Diego, United States,Usa
+2051,Mina Al Fahal, Oman,Oman
+2052,Pella, Greece,Usa
+2053,Makati, Philippines,Phillipines
+2054,Uudenmaan Laani,no_info,Finland
+2055,Barcelones, Spain,Spain
+2056,Solothurn, Switzerland,Switzerland
+2057,Greater London, United Kingdom,United Kingdom
+2058,Greater London, United Kingdom,
+2059,Rome, Italy,Italy
+2060,Kwazulu-Natal, South Africa,South Africa
+2061,Viana Castelo, Portugal,Portugal
+2062,Los Angeles, United States,California
+2063,Europe,Europe,Slovenia
+2064,Europe,Europe,Germany
+2065,Miranda, Venezuela,Venezuela
+2066,Shropshire, United Kingdom,United Kingdom
+2067,King Country, New Zealand,New Zealand
+2068,Bulacan, Philippines,Philippines
+2069,Lugo, Spain,Spain
+2070,Oxon, United Kingdom,United Kingdom
+2071,Bask Country, Spain,Spain
+2072,Kyoung Sang Buk Do,no_info,South Korea
+2073,Michoacan, Mexico,N/A
+2074,West Coast, New Zealand,New Zealand
+2075,Valais, Switzerland,Switzerland
+2076,No State Or Province,no_info,Netherlands
+2077,South Of France,no_info,France
+2078,Queenslan,no_info,Australia
+2079,Oahu, United States,Hawaii
+2080,Santarém, Portugal,Portugal
+2081,Marseille, France,France
+2082,Igloo City, Canada,Antarctica
+2083,Oise, France,France
+2084,Coromandel, Brazil,New Zealand
+2085,Hesse, Germany,Germany
+2086,Fankleigh Park,no_info,New Zealand
+2087,Ain, France,France
+2088,Loures, Portugal,Portugal
+2089,Nonthaburi, Thailand,Thailand
+2090,Zamora, Spain,Spain
+2091,Obwalden, Switzerland,Switzerland
+2092,Sichuan, China,China
+2093,Iwakuni, Japan,
+2094,Lu,Luxembourg,Switzerland
+2095,West Indies, United Kingdom,Barbados
+2096,North Somerset, United Kingdom,United Kingdom
+2097,Burgenland, Austria,Austria
+2098,Bohuslän, Sweden,Sweden
+2099,Republic Of Panama,Panama,Panama
+2100,Tyrol, Austria,Austria
+2101,Capital, Colombia,Argentina
+2102,Kogi State, Nigeria,Nigeria
+2103,Co. Louth, Ireland,Ireland
+2104,Kyoto Fu, Japan,Japan
+2105,Canton Zurich, Switzerland,Switzerland
+2106,Ladner, Canada,British Columbia
+2107,North, Cameroon,Singapore
+2108,Illlinois,no_info,Usa
+2109,Miraflores, Colombia,Portugal
+2110,Western Australia., Australia,Australia
+2111,New Territories, China,Hong Kong
+2112,Mu&#287;La, France,Turkey
+2113,Tallahassee, United States,Florida
+2114,Preveza, Greece,Greece
+2115,Dr., Netherlands,Netherlands
+2116,Ab, Georgia,Alberta
+2117,Ab, Georgia,Canada
+2118,Kadiogo, Burkina Faso,Burkina Faso
+2119,Bedfordshire, United Kingdom,United Kingdom
+2120,Ilfov, Romania,
+2121,Canton Esch, Luxembourg,Luxembourg
+2122,Lucerne, Switzerland,Switzerland
+2123,Ks, United States,Usa
+2124,Ks, United States,Kansas
+2125,Rodney District, New Zealand,New Zealand
+2126,Crumpsall, United Kingdom,United Kingdom
+2127,Västernorrland, Sweden,Sweden
+2128,Languedoc-Roussillon, France,France
+2129,Pontevedra(Galicia), Spain,Spain
+2130,Montevideo, Uruguay,Uruguay
+2131,Montevideo, Uruguay,
+2132,N.J., United States,Usa
+2133,Rogaland, Norway,Norway
+2134,Ga.,Gabon,Usa
+2135,Pará,Peru,Brazil
+2136,Serbia,Serbia,Yugoslavia
+2137,Toamasina, Madagascar,Madagascar
+2138,Setubal, Portugal,Portugal
+2139,Baja California, Mexico,Mexico
+2140,Rehka,no_info,Iceland
+2141,Wielkopolska, Poland,Poland
+2142,Yvelines, France,France
+2143,City, United Kingdom,Usa
+2144,City, United Kingdom,United Kingdom
+2145,Mipy, France,France
+2146,Päijät-Häme, Finland,Finland
+2147,Washington Dc, United States,Usa
+2148,Armed Forces Pacific (Ap),no_info,Japan
+2149,Sao Vicente, Brazil,Cape Verde
+2150,Selangor D.E,no_info,Malaysia
+2151,Schleswig Holstein, Germany,Germany
+2152,Gran Canary, Philippines,Spain
+2153,County Dublin, Ireland,Ireland
+2154,Castilla Leon, Spain,Spain
+2155,Styria, Austria,Austria
+2156,Netherlands,Netherlands,Netherlands
+2157,Yucatan, Mexico,Mexico
+2158,Colima, Mexico,Mexico
+2159,Suisse Romande, Switzerland,Switzerland
+2160,Baden, Germany,Germany
+2161,Belgium,Belgium,Belgium
+2162,Sunderland, United Kingdom,
+2163,Kapiti Coast, New Zealand,New Zealand
+2164,Co. Clare, Ireland,Ireland
+2165,Baden Würrtemberg, Germany,Germany
+2166,España/Catalunya, Spain,Spain
+2167,Brixton, United Kingdom,United Kingdom
+2168,Bohemia, United States,Czech Republic
+2169,Baltic States, Latvia,Lithuania
+2170,Carabobo, Venezuela,Venezuela
+2171,New Delhi, India,India
+2172,Ga,Gabon,Georgia
+2173,Ga,Gabon,Usa
+2174,Reykjavík, Iceland,Iceland
+2175,Berguedà, Spain,Berguedà
+2176,Berguedà, Spain,Spain
+2177,The Basque Country, Spain,Spain
+2178,Nj  08037, United States,New Jersey
+2179,Le Caire, Egypt,Egypt
+2180,Ciudad Real, Spain,Spain
+2181,Champagne-Ardenne, France,France
+2182,East Lothian, United Kingdom,United Kingdom
+2183,Islas Canarias, Spain,Spain
+2184,Gyeonggido, South Korea,South Korea
+2185,Powys, United Kingdom,United Kingdom
+2186,W.P. Putrajaya, Malaysia,Malaysia
+2187,Ehime-Ken, Japan,Japan
+2188,Cataluña-Barcelona-, Spain,Spain
+2189,N.P., United Kingdom,Bahamas
+2190,Ap (Armed Forces Pacific),no_info,Usa
+2191,Springs Co, United States,Colorado
+2192,United Kingdom,United Kingdom,United Kingdom
+2193,Hullabaloo, United Kingdom,Sri Lanka
+2194,<Foreign>, France,United Kingdom
+2195,Södermanland, Sweden,Sweden
+2196,Sg,Singapore,Singapore
+2197,Oost-Vlaanderen, Belgium,Belgium
+2198,Thuringia, Germany,Germany
+2199,Baden Wuerttemberg, Germany,Germany
+2200,Treviso, Italy,Italy
+2201,Algés, Portugal,Portugal
+2202,Chiapas, Mexico,Mexico
+2203,Postfach, Germany,Switzerland
+2204,Laguna, Philippines,Philippines
+2205,Seine-St-Denis, France,France
+2206,Westphalen, Brazil,Germany
+2207,Lanzarote, Spain,Spain
+2208,Louth, Ireland,Ireland
+2209,Satakunta, Finland,Finland
+2210,Wiltshire Uk, United Kingdom,United Kingdom
+2211,Cairo Governate,no_info,Egypt
+2212,Haut De Seine, France,France
+2213,Hautsdeseine,no_info,France
+2214,S Yorkshire, United Kingdom,United Kingdom
+2215,Nordrhein-Westfahlen, Germany,Germany
+2216,Ti, Switzerland,Switzerland
+2217,Niederösterreich, Austria,Austria
+2218,Maxiais, Portugal,Portugal
+2219,Co Cork, Ireland,Ireland
+2220,Tokyo Ku, Japan,Japan
+2221,Mallorca, Spain,Spain
+2222,Tyne & Wear, United Kingdom,United Kingdom
+2223,Valle, Honduras,Colombia
+2224,`N/A`, Portugal,Sweden
+2225,`N/A`, Portugal,Netherlands
+2226,Banstead, United Kingdom,United Kingdom
+2227,Appenzell, Switzerland,Switzerland
+2228,Gauteng - South Africa, South Africa,South Africa
+2229,Forest Gate, United Kingdom,United Kingdom
+2230,La Liguria, Argentina,L`Italia
+2231,Hawke`S Bay, New Zealand,New Zealand
+2232,Southern Hawkes Bay,no_info,New Zealand
+2233,South Waikato, New Zealand,New Zealand
+2234,Fars, Iran,Iran
+2235,Auckland Central, New Zealand,New Zealand
+2236,Grampian, United States,United Kingdom
+2237,West Glamorgan, United Kingdom,Wales
+2238,West Glamorgan, United Kingdom,United Kingdom
+2239,Emilia-Romagna, Italy,Italy
+2240,B/W, Germany,Germany
+2241,_,no_info,Portugal
+2242,_,no_info,Luxembourg
+2243,?Tajerska,no_info,Slovenia
+2244,Côte D`Azur, Brazil,France
+2245,Upper Hutt, New Zealand,New Zealand
+2246,Florida Keys, United States,Usa
+2247,Fukuoka Ken, Japan,Japan
+2248,Odense, Denmark,Denmark
+2249,Limerick, Ireland,Ireland
+2250,Cascadia, United States,Usa
+2251,Trnava, Slovakia,Slovakia
+2252,County Sligo, Ireland,Ireland
+2253,Not Available, United States,Slovenia
+2254,Ferrara, Italy,Italy
+2255,Tamilnadu, India,India
+2256,Patrick Henry Village, Germany,Germany
+2257,Bad-Württembg., Germany,Germany
+2258,York Co., United States,New Brunswick
+2259,Grand Cayman, Cayman Islands,Cayman Islands
+2260,Jaen-Andalucia, Spain,Spain
+2261,Lombardy, Italy,Italy
+2262,Fl 33157, United States,Florida
+2263,Drome, France,France
+2264,Tamaulipas, Mexico,Mexico
+2265,Baja California Sur, Mexico,Mexico
+2266,Ancona, Italy,Italy
+2267,Oeste, Cameroon,Portugal
+2268,Dae-Jeon,no_info,Yu-Song
+2269,Durham, United States,United Kingdom
+2270,Provence Alpes Cote D`Azur, France,France
+2271,Slidre, Norway,Norway
+2272,Bristol, United Kingdom,United Kingdom
+2273,Bristol, United Kingdom,England
+2274,Guìpuzcoa, Spain,Spain
+2275,Languedoc Rousillon,no_info,France
+2276,Belize District, Belize,Belize
+2277,Kanto, Japan,Japan
+2278,Kwajalein Atoll, Marshall Islands,Marshall Islands
+2279,Bayern/Deutschland, Germany,Germany
+2280,Osaka, Japan,Japan
+2281,Appenzell Ausserrhoden, Switzerland,Switzerland
+2282,Fürstbisthum Osnabrück,no_info,Germany
+2283,N/Z, Netherlands,New Zealand
+2284,Canton Ct, United States,Connecticut
+2285,Vaslui, Romania,Romania
+2286,Rhône-Alpe, France,France
+2287,Almería, Spain,Almería
+2288,Ruhrpott, Germany,Germany
+2289,Plaine Wilhems, Mauritius,Mauritius
+2290,Kyoto, Japan,Japan
+2291,Santa Catarina, Brazil,Brazil
+2292,On, Canada,Canada
+2293,Imaginary, United States,Space
+2294,Macedonia,North Macedonia,Macedonia
+2295,Turkey,Turkey,Turkey
+2296,Koceali,no_info,Turkey
+2297,Pizarra, Spain,Spain
+2298,Lothians, United Kingdom,United Kingdom
+2299,Eastjutland,no_info,
+2300,New Suth Wales,no_info,Australia
+2301,South Gyeongsang, South Korea,South Korea
+2302,Northholland,no_info,Netherlands
+2303,Poitou-Charentes, France,France
+2304,Latina, Italy,Italy
+2305,Brighton, United Kingdom,Usa
+2306,Saxonia, Germany,Germany
+2307,Etelä-Savo, Finland,Finland
+2308,Lower Austria, Austria,Austria
+2309,Peking, China,China
+2310,Geelong, Australia,Victoria
+2311,Wannsee, Germany,Berlin
+2312,Kyongpook,no_info,South Korea
+2313,Savanne, Mauritius,Mauritius
+2314,Melekeok, Palau,Palau
+2315,Teesside, United Kingdom,United Kingdom
+2316,Pohjois-Pohjanmaa, Finland,Finland
+2317,I Sometimes Live In Hong Kong,no_info,United Kingdom
+2318,Val D`Oise, France,France
+2319,Sealand, United Kingdom,Denmark
+2320,Sar, Italy,China
+2321,Doha, Qatar,Qatar
+2322,Warminsko-Mazurskie, Poland,Poland
+2323,Seine Saint-Denis, France,France
+2324,British  Columbia, Canada,Canada
+2325,Galway, Ireland,Ireland
+2326,Mexico D.F., Mexico,Mexico
+2327,Rvk, Norway,Iceland
+2328,Ýç Anadolu, Azerbaijan,Turkey
+2329,French Speaking Swiss,no_info,Switzerland
+2330,Ribe, Denmark,Denmark
+2331,Yongsan-Gu, South Korea,Seoul
+2332,Yongsan-Gu, South Korea,South Korea
+2333,Salzkammergut, Austria,Austria
+2334,Almada, Portugal,Portugal
+2335,Davao Del Norte, Philippines,Philippines
+2336,Småland, Norway,Sweden
+2337,Manningtree, United Kingdom,England
+2338,Castaway Cay, The Bahamas,Bahamas
+2339,South Bavaria, Brazil,Germany
+2340,Luxembourg Ville, France,Luxembourg
+2341,Berlin-West, United States,Germany
+2342,Pernambuco, Brazil,Brazil
+2343,Rift Valley, Zambia,Kenya
+2344,Graubuenden, Switzerland,Switzerland
+2345,Berlin-Brandenburg, Germany,Germany
+2346,Baixo Alentejo, Portugal,Portugal
+2347,Queretaro, Mexico,Mexico
+2348,Smith`S, Bermuda,Bermuda
+2349,Niagra Falls, United States,Canada
+2350,Länsi Suomen Lääni, Finland,Finland
+2351,Trondheim, Norway,Norway
+2352,Ag/Bs, Argentina,Switzerland
+2353,Köln, Germany,Germany
+2354,Ahmedi, Kuwait,Kuwait
+2355,So,Somalia,Switzerland
+2356,Nelson, New Zealand,New Zealand
+2357,Causeway Bay, China,Hong Kong
+2358,Alloa, United Kingdom,Scotland
+2359,Ar,Argentina,Usa
+2360,Limassol, Cyprus,Cyprus
+2361,Budapest, Hungary,Hungary
+2362,Interlaken/Böningen, Switzerland,Switzerland
+2363,Granollers, Spain,Spain
+2364,Mah, United States,India
+2365,Saigon, Vietnam,Vietnam
+2366,Mazowiecka, Poland,Poland
+2367,Gallen, Norway,St.Gallen
+2368,Barcelonès, Spain,Spain
+2369,Vsvi,no_info,St.Thomasi
+2370,Somewhere In The Desert,no_info,Kuwait
+2371,Bouches Du Rhône, France,France
+2372,Morobe Province, Papua New Guinea,Papua New Guinea
+2373,West-Flanders, Belgium,Belgium
+2374,Seine Et Marne, France,France
+2375,Moita, Portugal,Portugal
+2376,Groenekan, Netherlands,Netherlands
+2377,Grad Zagreb, Croatia,Croatia
+2378,Kvarner, Croatia,Croatia
+2379,Norrland, Sweden,Sweden
+2380,Padova, Italy,Italy
+2381,Kyonggi Province, South Korea,South Korea
+2382,No,Norway,Canada
+2383,Aomori-Ken, Japan,Japan
+2384,Värmland, Sweden,Sweden
+2385,N.A, Portugal,New Zealand
+2386,Qld, Australia,Australia
+2387,Lelystad, Netherlands,Netherlands
+2388,Ok, United States,United States
+2389,Ok, United States,Usa
+2390,Ok, United States,Oklahoma
+2391,Ok, United States,U.S. Of A.
+2392,Hordaland, Netherlands,Norway
+2393,Kowloon, China,Hong Kong
+2394,Suebia, Germany,Germany
+2395,Famalicão, Portugal,Portugal
+2396,Saitama, Japan,Japan
+2397,Bern (Be), Switzerland,Switzerland
+2398,Seven Mile Beach, Australia,Cayman Islands
+2399,Akershus, Norway,Norway
+2400,Connemara, United States,County Galway
+2401,Basel Stadt, Switzerland,Switzerland
+2402,Larioja,no_info,Spain
+2403,Tokyo-To, Japan,Japan
+2404,Nz,New Zealand,Austria
+2405,Santa Fe, Argentina,Argentina
+2406,Yukon, Canada,Canada
+2407,Northen England, United Kingdom,United Kingdom
+2408,Jizni Morava, Czechia,Czech Republic
+2409,Moselle, France,France
+2410,Clare, Ireland,Ireland
+2411,Parana, Brazil,Brazil
+2412,Liege, Belgium,
+2413,Liege, Belgium,Belgium
+2414,Central Otago, New Zealand,New Zealand
+2415,Don`T Know, United States,New Zealand
+2416,Kedah, Malaysia,Malaysia
+2417,Villaverde, Spain,Spain
+2418,Il Veneto, Egypt,L`Italia
+2419,Sweden,Sweden,Sweden
+2420,Kumamoto Ken, Japan,Japan
+2421,Vientiane, Laos,Laos
+2422,Haidian, China,China
+2423,Basque Country (Euskal Herria), Spain,Spain
+2424,County Clare, Ireland,Ireland
+2425,Nordreihnwestpfahlen,no_info,Deutschland
+2426,Entre Ríos, Argentina,Argentina
+2427,Twickenham, United Kingdom,Middlesex
+2428,Ri, Italy,Usa
+2429,Co. Limerick, Ireland,
+2430,Illes Baleares, Spain,Spain
+2431,Strathclyde, Barbados,United Kingdom
+2432,Seville, Spain,Spain
+2433,Apo Ap, Philippines,
+2434,El Bierzo, Spain,Spain
+2435,North Rhine-Westphalia, Germany,Germany
+2436,Cotes D`Armor, France,France
+2437,N.Z., Israel,New Zealand
+2438,Vest-Agder, Norway,Norway
+2439,Ben Wyvis, United Kingdom,United Kingdom
+2440,Swiety Krzys, Poland,
+2441,Ciudad Autonoma De Buenos Aires, Argentina,Argentina
+2442,Pulau Pinang, Malaysia,Malaysia
+2443,Armed Forces Europe,no_info,Usa
+2444,Callif, United States,Usa
+2445,Deux-Sèvres, France,France
+2446,Centre, France,France
+2447,Tottori, Japan,Japan
+2448,Flanders, Belgium,Belgium
+2449,Estado De Mexico, Mexico,Mexico
+2450,Ravenna, Italy,Italy
+2451,Stajerska, Austria,Slovenia
+2452,N/S, Canada,Portugal
+2453,Ab., Georgia,Alberta
+2454,Kras, Slovenia,Slovenia
+2455,Conwy, United Kingdom,United Kingdom
+2456,Marlborough, United States,New Zealand
+2457,Wi., United States,Wisconsin
+2458,Wexford, Ireland,Ireland
+2459,Haute Savoie, France,France
+2460,Metropolitana, Colombia,Chile
+2461,Brunei,Brunei,Brunei
+2462,Inatsu, Japan,Hagiwara
+2463,Agadir, Morocco,Morocco
+2464,Noord-Holand,no_info,Netherlands
+2465,Aguascalientes, Mexico,Mexico
+2466,&#24191;&#35199;, Estonia,China
+2467,Nuevo León, Mexico,Mexico
+2468,Euskal Herria, Spain,Spain
+2469,Västerbotton,no_info,Sweden
+2470,Galati, Romania,Romania
+2471,Nejd, Saudi Arabia,Saudi Arabia
+2472,Castilla-La Mancha, Spain,Spain
+2473,Pays De Loire, France,France
+2474,Province Du Luxembourg,no_info,La Belgique
+2475,Lancs, United Kingdom,United Kingdom
+2476,Alto Alentejo, Portugal,Portugal
+2477,Kanton Zurich, Switzerland,Switzerland
+2478,Wanaka, New Zealand,New Zealand
+2479,Moravia, United States,Czech Republic
+2480,Ciego De Avila, Cuba,Caribbean Sea
+2481,Alcorcon, Spain,Spain
+2482,Bl, Italy,Switzerland
+2483,Epinay, France,France
+2484,Shan Dong, China,China
+2485,Travelling, Spain,Canada
+2486,Glasgow, United Kingdom,United Kingdom
+2487,Voralberg,no_info,Austria
+2488,Vastra Gotaland, Sweden,Sweden
+2489,Cortes, Spain,Honduras
+2490,Gran Canaria - Islas Canarias, Spain,Spain
+2491,...,no_info,Germany
+2492,...,no_info,Bermuda
+2493,M-V, Poland,Germany
+2494,Algueirao, Portugal,Portugal
+2495,Namur, Belgium,Belgium
+2496,Kosovo,Kosovo,Yugoslavia
+2497,Wettingen Ag, Switzerland,Switzerland
+2498,Onataio,no_info,Canada
+2499,Valle D`Aosta, Italy,Italy
+2500,Valle D`Aosta, Italy,Usa
+2501,Hobart, Australia,Tasmania
+2502,Gorenjska, Slovenia,Slovenia
+2503,Malaysia,Malaysia,Malaysia
+2504,Whalley Range, United Kingdom,United Kingdom
+2505,Mazowsze, Poland,Poland
+2506,Guanajuato, Mexico,Mexico
+2507,Holland,Netherlands,Netherlands
+2508,Perthshire, United States,United Kingdom
+2509,Jaén, Spain,Spain
+2510,Trás-Os-Montes, Portugal,Portugal
+2511,God Knows, Taiwan,United Kingdom
+2512,Nordschweiz,no_info,Switzerland
+2513,Shiga, Japan,Japan
+2514,Rhones Alpes, France,France
+2515,Rpl, Slovakia,Germany
+2516,Kombo North, Cameroon,Gambia
+2517,Auckland City, New Zealand,New Zealand
+2518,Calfiornia, United States,Usa
+2519,Mexico Df, Mexico,Mexico
+2520,Albacete, Spain,Spain
+2521,Blekinge, Sweden,Sweden
+2522,No States In Nz :),no_info,New Zealand
+2523,Ithaca, United States,Usa
+2524,Ljubljana, Slovenia,
+2525,South Glos., United States,United Kingdom
+2526,Douro Litoral,no_info,Portugal
+2527,Lubelskie, Poland,Poland
+2528,Basse Normandie, France,France
+2529,Moschato, Greece,Greece
+2530,Touraine, France,France
+2531,Kerry, Ireland,Ireland
+2532,Vila Nova De Gaia, Portugal,Portugal
+2533,Western Pennsylvania, United States,Usa
+2534,Co.Meath, Ireland,Ireland
+2535,West Bengal, India,India
+2536,Kuala Lumpur Malaysia, Malaysia,Malaysia
+2537,Toapayoh,no_info,Singapore
+2538,Golden Bay, New Zealand,New Zealand
+2539,Heathcote, United States,New Zealand
+2540,Room 308, Italy,61 Men
+2541,Champs Sur Marne, France,France
+2542,Segovia, Spain,Spain
+2543,Apo, Mexico,Germany
+2544,Subang Jaya, Malaysia,Malaysia
+2545,Westcoast, Germany,New Zealand
+2546,Rs,Serbia,Brazil
+2547,Taiwan,Taiwan,Taiwan
+2548,Armed Services Europe,no_info,Usa
+2549,Roussillon, France,France
+2550,And Ever Expanding,no_info,Michigan
+2551,Bologna, Italy,Italy
+2552,North Harbour, Australia,New Zealand
+2553,Brent, United States,United Kingdom
+2554,Ct, United States,Connecticut
+2555,Ct, United States,
+2556,Bayern / Bavaria, Germany,Germany
+2557,Tampere, Finland,Finland
+2558,Libano,Lebanon,Spain
+2559,S. Carolina, United States,Usa
+2560,Lt.,Lithuania,Lithuania
+2561,Gtr Manchester,no_info,United Kingdom
+2562,Mitaka, Japan,Japan
+2563,Tianjin City, China,China
+2564,Zentralschweiz, Switzerland,Switzerland
+2565,Ibaraki, Japan,Japan
+2566,Catalunya/Barcelona, Spain,Spain
+2567,Northern Marianas Provinces,no_info,Usa
+2568,Maputo, Mozambique,Mozambique
+2569,Planet, France,Far Away...
+2570,Vigo Pontevedra, Spain,Spain
+2571,Emilia, Argentina,Italy
+2572,Huesca, Spain,Spain
+2573,Pv, Italy,Spain
+2574,Pais Vasco - Basque Country,no_info,Spain
+2575,Elvas, Portugal,Portugal
+2576,Cantabury/ Nz, United Kingdom,New Zealand
+2577,Chiswickl,no_info,United Kingdom
+2578,Upperaustria,no_info,Austria
+2579,Italia,Italy,
+2580,Thessaloniki, Greece,Greece
+2581,Df, Brazil,Brazil
+2582,Df, Brazil,Mexico
+2583,Troms, Norway,Norway
+2584,Lappi, Finland,Finland
+2585,Las  Palmas, Spain,Spain
+2586,Sichuan Province, China,China
+2587,Toulouse, France,France
+2588,Pays Basque, Spain,France
+2589,Basel-Landschaft, Switzerland,Switzerland
+2590,Basse Cote, France,Guinea
+2591,Mérida, Spain,Venezuela
+2592,Caldas, Colombia,Colombia
+2593,Gl,Greenland,Netherlands
+2594,Muswell Hill, United Kingdom,United Kingdom
+2595,Region Stuttgart, Germany,Germany
+2596,Mo., United States,Missouri
+2597,Bruxelles Capitale, Belgium,Belgium
+2598,Someset, South Africa,United Kingdom
+2599,Jawa Timur, Indonesia,Indonesia
+2600,Aberta, Iraq,Canada
+2601,S. Devon, Canada,England
+2602,Cantal/Paris, France,France
+2603,Castilla Y Léon, Spain,Spain
+2604,Budapest And Ma,no_info,Hungary And Usa
+2605,Spangdahlem, Germany,Germany
+2606,Death Rockin Mekka,no_info,Etelä-Suomi
+2607,Gld, United States,Netherlands
+2608,C, France,C
+2609,Sind, Pakistan,Pakistan
+2610,Catalonian, United States,Spain
+2611,Herts, Israel,United Kingdom
+2612,Neuchatel, Switzerland,Switzerland
+2613,Ponsonby, United Kingdom,New Zealand
+2614,Bari, Italy,Italy
+2615,Southeast Asia, Singapore,Malaysia
+2616,Sumatera Utara, Indonesia,Indonesia
+2617,Upstate New York, United States,Usa
+2618,Co. Mayo, Ireland,Ireland
+2619,Shoreditch, United Kingdom,United Kingdom
+2620,Vizcaia, Spain,Spain
+2621,Woj. &#322;Ódzkie,no_info,Poland
+2622,Maidenhead, United Kingdom,England
+2623,County Wexford, Ireland,Ireland
+2624,Ciudad De Guatemala, Guatemala,Guatemala
+2625,Kanton Bern, Switzerland,Switzerland
+2626,Storstockholm,no_info,Sweden
+2627,Barcelona (Cataluña), Spain,Spain
+2628,Ross Island,Ross Island,Antarctica
+2629,Pa,Panama,Usa
+2630,(Alacant), Spain,Spain
+2631,Hasharon, Israel,Israel
+2632,Langue D`Oc Rousillon,no_info,France
+2633,Hong Kong Island, China,Hong Kong
+2634,Canary Islands, Spain,Spain
+2635,Massachusattes,no_info,Usa
+2636,Pyrénées Orientales, France,France
+2637,Gunma, Japan,Japan
+2638,Ge,Georgia,Switzerland
+2639,Andhrapradesh, India,India
+2640,N-Holland, Netherlands,Netherlands
+2641,Dedensen, Germany,Niedersachsen
+2642,Nfa, Nigeria,New Zealand
+2643,Østfold, Norway,Norway
+2644,Box Hill North, Australia,Australia
+2645,Na/,Namibia,South Korea
+2646,North West Province, South Africa,South Africa
+2647,Sitges, Spain,Spain
+2648,Lodz, Poland,Poland
+2649,Romania/Europe,Romania,Romania
+2650,Nagano, Japan,Japan
+2651,Ct., United States,Connecticut
+2652,Sentul, Malaysia,Malaysia
+2653,The, United Kingdom,Netherlands
+2654,Açores, Portugal,Portugal
+2655,Cascais, Portugal,Portugal
+2656,Lodzkie, Poland,Poland
+2657,Connacht, Ireland,Ireland
+2658,Thonex, Switzerland,Switzerland
+2659,Yt, Canada,Canada
+2660,Mdc, Portugal,Francisco Morazan
+2661,Trieste, Italy,Venezia Giulia
+2662,Zagreb City, Croatia,Croatia
+2663,Pollença, Spain,Spain
+2664,Medan Hawalli,no_info,Kuwait
+2665,Alajuela, Costa Rica,Costa Rica
+2666,Rotterdam, Netherlands,Netherlands
+2667,Fukuoka, Japan,Japan
+2668,Selangor Darul Ehsan, Malaysia,Malaysia
+2669,Richmond, United States,New Zealand
+2670,Northwest Province,no_info,Cameroon
+2671,Chorlton, United Kingdom,United Kingdom
+2672,Michigan/New Jersey, United States,Usa
+2673,Ayrshire, United Kingdom,Scotland
+2674,Ayrshire, United Kingdom,United Kingdom
+2675,Région Bilingue De Bruxelles-Capitale,no_info,Belgium
+2676,Nijmegen, Netherlands,Netherlands
+2677,Cologne, Germany,Germany
+2678,Kosice, Slovakia,Slovakia
+2679,Grays, United Kingdom,United Kingdom
+2680,East Yorkshire, United States,United Kingdom
+2681,East Yorkshire, United States,Uruguay
+2682,Maraval, Venezuela,Trinidad And Tobago
+2683,Aarhus, Denmark,Denmark
+2684,Quinta Región, Paraguay,Chile
+2685,Aomori Prefecture, Japan,Japan
+2686,Co,Colombia,Usa
+2687,Yamaguchi, Japan,Japan
+2688,Maadi, Australia,Egypt
+2689,Oh, United States,Van Wert
+2690,Oh, United States,Usa
+2691,Crete, Greece,Greece
+2692,Champagne, France,France
+2693,Nord Rhein Westfallen, Germany,Germany
+2694,Nb, Canada,Netherlands
+2695,Valcea, Romania,Romania
+2696,West Yorskhire,no_info,United Kingdom
+2697,Genova-Savona, Italy,Italy
+2698,Nitriansky Kraj, Slovakia,Slovakia
+2699,Tarinaki,no_info,New Zealand
+2700,Aust-Agder, Norway,Norway
+2701,Fc, Italy,Italy
+2702,Co.Monaghan, Ireland,Ireland
+2703,Rodney, United States,New Zealand
+2704,Stuttgart, Germany,
+2705,Rota, Spain,Spain
+2706,P.R.O.C.,no_info,Hong Kong
+2707,Beira Alta, Portugal,Portugal
+2708,Nl,Netherlands,Netherlands
+2709,Balkonien,no_info,Germany
+2710,Santiago De Chile, Chile,Chile
+2711,Was In Singas Now In Shangers,no_info,China
+2712,Lazio E Sicilia, Italy,Italy
+2713,Okayama, Japan,Japan
+2714,Mindanao, Philippines,Philippines
+2715,Kanton Basel, Switzerland,Switzerland
+2716,N /A, Portugal,Austria
+2717,Sandweiler, Luxembourg,Luxembourg
+2718,Northants, United Kingdom,United Kingdom
+2719,New Brunswick/Alberta, Canada,Canada
+2720,Pyrennes Orientales,no_info,France
+2721,New  York, United States,Usa
+2722,Nayarit, Mexico,Mexico
+2723,Podkarpackie, Poland,Poland
+2724,Champagne-Ardennes, France,France
+2725,Overrijsel,no_info,Netherlands
+2726,Gran Canaria, Spain,Spain
+2727,Bogota, Colombia,Colombia
+2728,Tarn, France,France
+2729,Languedoc-Roussilion,no_info,France
+2730,Stockholm Stad, Philippines,Sweden
+2731,No. 24, Kyrgyzstan,Austin
+2732,Corralitos, United States,Ca.
+2733,Haute-Vienne, France,France
+2734,Monterrey, Mexico,Mexico
+2735,Comunidad Autonoma: Catalunya, Spain,Spain
+2736,S.A.R., Spain,N/A
+2737,French Quarter, United States,
+2738,Friesland/Groningen, Netherlands,Netherlands
+2739,Wi, United States,
+2740,Aragua, Venezuela,Venezuela
+2741,Centro, France,Portugal
+2742,Kyonggi, South Korea,South Korea
+2743,Connaught, Canada,Ireland
+2744,Midan Hawly,no_info,Kuwait
+2745,West Of France,no_info,France
+2746,N?A, Portugal,New Zealand
+2747,North Island Nz, New Zealand,New Zealand
+2748,Ille Et Vilaine, France,France
+2749,Lenister, Australia,Ireland
+2750,Castelló, Spain,Spain
+2751,My Own Little World,no_info,Usa
+2752,Basque, United States,France
+2753,Central America, Australia,Honduras
+2754,Battersea, United Kingdom,United Kingdom
+2755,Eu, France,Spain
+2756,Wv, United States,Usa
+2757,"""N/A", Portugal,Netherlands
+2758,Naval Air Station Keflavik,no_info,Iceland
+2759,Atlantic, United States,Benin
+2760,Long Island, United States,New York
+2761,Cheshire England, United Kingdom,United Kingdom
+2762,Edo. De México, Mexico,Mexico
+2763,Schleswig-Holstein / Norddeutschland, Germany,Germany
+2764,Sc, United States,Usa
+2765,Az 85742, United States,Arizona
+2766,Polska,Poland,Poland
+2767,Uppsala, Sweden,Sweden
+2768,Venezia, Italy,Italy
+2769,Uudenmaa,no_info,Finland
+2770,N.S.W., India,Australia
+2771,B.C, Canada,Canada
+2772,Rajasthan, India,India
+2773,Canton De Genève, Switzerland,Switzerland
+2774,Ak., United States,Usa
+2775,Caazapa, Paraguay,Paraguay
+2776,Woj. Mazowieckie, Poland,Poland
+2777,Oxford, United Kingdom,United Kingdom
+2778,"""N/A"".)", Portugal,New Zealand
+2779,Shetland, United Kingdom,United Kingdom
+2780,Wanganui, New Zealand,New Zealand
+2781,Vaucluse, France,France
