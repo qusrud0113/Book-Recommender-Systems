@@ -1,7 +1,7 @@
 # 데이콘 도서 추천 알고리즘 AI경진대회
 Dacon: https://dacon.io/competitions/official/236093/overview/description 
 
-#### 전체 2위 
+#### PB LB 전체 2위/ 최종 전체 1위
 PUBLIC LB 3.25811 
 PRIVATE LB: 3.27139 
 
